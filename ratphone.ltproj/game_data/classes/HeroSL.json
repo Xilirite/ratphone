@@ -5,12 +5,12 @@
         "desc": "",
         "tier": 2,
         "movement_group": "Light Foot",
-        "promotes_from": "SwordFighter",
+        "promotes_from": null,
         "turns_into": [],
         "tags": [
             "Sword"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 23,
             "STR": 8,

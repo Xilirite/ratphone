@@ -5,45 +5,45 @@
         "desc": "Advanced wielders of the natural magics.",
         "tier": 2,
         "movement_group": "Mages",
-        "promotes_from": "Mage",
+        "promotes_from": null,
         "turns_into": [],
         "tags": [],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 20,
-            "STR": 0,
-            "MAG": 5,
-            "SPD": 5,
-            "LCK": 0,
-            "DEF": 5,
-            "RES": 6,
-            "CON": 7,
+            "STR": 1,
+            "MAG": 9,
+            "SPD": 7,
+            "LCK": 3,
+            "DEF": 3,
+            "RES": 9,
+            "CON": 5,
             "MOV": 6,
-            "DEX": 6
+            "DEX": 8
         },
         "growths": {
-            "HP": 45,
-            "STR": 0,
-            "MAG": 45,
-            "SPD": 25,
-            "LCK": 15,
-            "DEF": 10,
-            "RES": 40,
-            "CON": 0,
+            "HP": 55,
+            "STR": 40,
+            "MAG": 85,
+            "SPD": 55,
+            "LCK": 30,
+            "DEF": 50,
+            "RES": 85,
+            "CON": 10,
             "MOV": 0,
-            "DEX": 30
+            "DEX": 60
         },
         "growth_bonus": {
             "HP": 0,
             "STR": 0,
-            "MAG": 0,
+            "MAG": 30,
             "SPD": 0,
-            "LCK": 0,
+            "LCK": 15,
             "DEF": 0,
-            "RES": 0,
+            "RES": 30,
             "CON": 0,
             "MOV": 0,
-            "DEX": 0
+            "DEX": 5
         },
         "promotion": {
             "HP": -99,
@@ -58,16 +58,16 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 20,
-            "MAG": 30,
-            "SPD": 26,
+            "HP": 43,
+            "STR": 26,
+            "MAG": 48,
+            "SPD": 40,
             "LCK": 30,
-            "DEF": 21,
-            "RES": 25,
-            "CON": 20,
-            "MOV": 15,
-            "DEX": 30
+            "DEF": 20,
+            "RES": 44,
+            "CON": 11,
+            "MOV": 20,
+            "DEX": 45
         },
         "learned_skills": [],
         "wexp_gain": {
@@ -89,11 +89,11 @@
             ],
             "Staff": [
                 true,
-                31
+                2
             ],
             "Magic": [
                 true,
-                62
+                5
             ],
             "Default": [
                 false,

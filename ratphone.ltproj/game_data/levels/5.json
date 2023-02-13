@@ -25,7 +25,7 @@
         "go_to_overworld": false,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Rhodys",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -38,50 +38,11 @@
                 "generic": false
             },
             {
-                "nid": "Natasha",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    5,
-                    18
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Joshua",
-                "team": "enemy",
-                "ai": "JoshuaDefend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    9,
-                    7
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Saar",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    13,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "101",
                 "variant": null,
                 "level": 3,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -105,7 +66,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Archer",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Bow",
@@ -129,7 +90,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -153,7 +114,7 @@
                 "variant": null,
                 "level": 6,
                 "klass": "SwordFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Sword",
@@ -177,7 +138,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -201,7 +162,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "Archer",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Bow",
@@ -225,7 +186,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -249,7 +210,7 @@
                 "variant": null,
                 "level": 6,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -273,7 +234,7 @@
                 "variant": null,
                 "level": 6,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -297,7 +258,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -321,7 +282,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -345,7 +306,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -369,7 +330,7 @@
                 "variant": null,
                 "level": 5,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -393,7 +354,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "Archer",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Bow",
@@ -417,7 +378,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -440,8 +401,8 @@
                 "nid": "116",
                 "variant": null,
                 "level": 4,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -461,8 +422,8 @@
                 "nid": "117",
                 "variant": null,
                 "level": 4,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -482,8 +443,8 @@
                 "nid": "118",
                 "variant": null,
                 "level": 5,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -503,8 +464,8 @@
                 "nid": "119",
                 "variant": null,
                 "level": 5,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -524,8 +485,8 @@
                 "nid": "120",
                 "variant": null,
                 "level": 5,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -545,8 +506,8 @@
                 "nid": "121",
                 "variant": null,
                 "level": 5,
-                "klass": "Brigand",
-                "faction": "Bandit",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -932,7 +893,6 @@
                 "nid": "EnemyTeam",
                 "units": [
                     "101",
-                    "Saar",
                     "102",
                     "103",
                     "104",

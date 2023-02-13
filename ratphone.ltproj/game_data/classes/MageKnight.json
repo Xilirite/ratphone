@@ -1,49 +1,48 @@
 [
     {
-        "nid": "GrayPromo",
-        "name": "GrayPromo",
-        "desc": "??",
+        "nid": "MageKnight",
+        "name": "Mage Knight",
+        "desc": "",
         "tier": 2,
-        "movement_group": "Heavy Cav",
-        "promotes_from": "Illusionist",
+        "movement_group": "Light Cav",
+        "promotes_from": null,
         "turns_into": [],
         "tags": [
-            "Horse",
             "Mounted"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
-            "MOV": 0,
-            "DEX": 0
+            "HP": 21,
+            "STR": 5,
+            "MAG": 7,
+            "SPD": 9,
+            "LCK": 2,
+            "DEF": 3,
+            "RES": 8,
+            "CON": 6,
+            "MOV": 7,
+            "DEX": 8
         },
         "growths": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
+            "HP": 60,
+            "STR": 55,
+            "MAG": 70,
+            "SPD": 55,
+            "LCK": 20,
+            "DEF": 60,
+            "RES": 80,
+            "CON": 10,
             "MOV": 0,
-            "DEX": 0
+            "DEX": 50
         },
         "growth_bonus": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
+            "HP": 5,
+            "STR": 5,
+            "MAG": 25,
+            "SPD": 5,
+            "LCK": 5,
+            "DEF": 10,
+            "RES": 25,
             "CON": 0,
             "MOV": 0,
             "DEX": 0
@@ -61,22 +60,22 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 27,
-            "MAG": 20,
-            "SPD": 27,
-            "LCK": 30,
-            "DEF": 23,
-            "RES": 23,
-            "CON": 25,
+            "HP": 47,
+            "STR": 35,
+            "MAG": 40,
+            "SPD": 32,
+            "LCK": 24,
+            "DEF": 26,
+            "RES": 40,
+            "CON": 12,
             "MOV": 20,
-            "DEX": 26
+            "DEX": 28
         },
         "learned_skills": [],
         "wexp_gain": {
             "Sword": [
-                false,
-                0
+                true,
+                3
             ],
             "Lance": [
                 false,
@@ -87,7 +86,7 @@
                 0
             ],
             "Bow": [
-                false,
+                0,
                 0
             ],
             "Staff": [
@@ -95,8 +94,8 @@
                 0
             ],
             "Magic": [
-                false,
-                0
+                true,
+                4
             ],
             "Default": [
                 false,
@@ -115,21 +114,21 @@
                 0
             ],
             "Anima": [
-                false,
-                0
+                true,
+                71
             ],
             "Dark": [
                 false,
                 0
             ]
         },
-        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_nid": "Generic_Portrait_Mage_Knight",
         "icon_index": [
             0,
             0
         ],
-        "map_sprite_nid": "Ephraim_Great_Lord",
-        "combat_anim_nid": null,
+        "map_sprite_nid": "MageKnight",
+        "combat_anim_nid": "Strategist",
         "fields": []
     }
 ]

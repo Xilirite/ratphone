@@ -5,49 +5,49 @@
         "desc": "??",
         "tier": 2,
         "movement_group": "Heavy Cav",
-        "promotes_from": "Captain",
+        "promotes_from": null,
         "turns_into": [],
         "tags": [
             "Horse",
             "Mounted",
             "Sword"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
-            "HP": 18,
-            "STR": 3,
-            "MAG": 2,
-            "SPD": 4,
-            "LCK": 0,
-            "DEF": 5,
-            "RES": 0,
+            "HP": 23,
+            "STR": 10,
+            "MAG": 6,
+            "SPD": 8,
+            "LCK": 6,
+            "DEF": 4,
+            "RES": 6,
             "CON": 7,
             "MOV": 7,
-            "DEX": 3
+            "DEX": 8
         },
         "growths": {
             "HP": 90,
-            "STR": 45,
-            "MAG": 22,
-            "SPD": 45,
-            "LCK": 40,
-            "DEF": 15,
-            "RES": 20,
-            "CON": 0,
+            "STR": 65,
+            "MAG": 50,
+            "SPD": 65,
+            "LCK": 45,
+            "DEF": 35,
+            "RES": 55,
+            "CON": 20,
             "MOV": 0,
-            "DEX": 40
+            "DEX": 60
         },
         "growth_bonus": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 15,
+            "STR": 15,
             "MAG": 0,
-            "SPD": 0,
+            "SPD": 15,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
-            "CON": 0,
+            "RES": 20,
+            "CON": 5,
             "MOV": 0,
-            "DEX": 0
+            "DEX": 10
         },
         "promotion": {
             "HP": -99,
@@ -62,30 +62,30 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 24,
-            "MAG": 20,
-            "SPD": 30,
-            "LCK": 30,
-            "DEF": 22,
-            "RES": 25,
-            "CON": 25,
+            "HP": 78,
+            "STR": 44,
+            "MAG": 29,
+            "SPD": 41,
+            "LCK": 31,
+            "DEF": 28,
+            "RES": 32,
+            "CON": 14,
             "MOV": 20,
-            "DEX": 29
+            "DEX": 38
         },
         "learned_skills": [],
         "wexp_gain": {
             "Sword": [
                 true,
-                70
+                5
             ],
             "Lance": [
-                false,
-                0
+                true,
+                4
             ],
             "Axe": [
-                false,
-                0
+                true,
+                4
             ],
             "Bow": [
                 false,

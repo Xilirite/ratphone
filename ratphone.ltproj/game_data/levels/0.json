@@ -25,7 +25,7 @@
         "go_to_overworld": false,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Rhodys",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -38,7 +38,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Akatos",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -55,7 +55,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -79,7 +79,7 @@
                 "variant": null,
                 "level": 2,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -97,19 +97,6 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
-            },
-            {
-                "nid": "O'Neill",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    10,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": false
             }
         ],
         "regions": [],

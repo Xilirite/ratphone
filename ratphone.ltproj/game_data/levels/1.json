@@ -25,7 +25,7 @@
         "go_to_overworld": true,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Rhodys",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -38,7 +38,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Akatos",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -51,50 +51,11 @@
                 "generic": false
             },
             {
-                "nid": "Gilliam",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    6,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Franz",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    5,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Breguet",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "101",
                 "variant": null,
                 "level": 2,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -118,7 +79,7 @@
                 "variant": null,
                 "level": 2,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -142,7 +103,7 @@
                 "variant": null,
                 "level": 2,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -166,7 +127,7 @@
                 "variant": null,
                 "level": 2,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -190,7 +151,7 @@
                 "variant": null,
                 "level": 2,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -214,7 +175,7 @@
                 "variant": null,
                 "level": 3,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -238,7 +199,7 @@
                 "variant": null,
                 "level": 2,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -259,7 +220,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -280,7 +241,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "AxeFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -300,8 +261,8 @@
                 "nid": "GreenCav",
                 "variant": null,
                 "level": 1,
-                "klass": "Cavalier",
-                "faction": "Soldier",
+                "klass": "SwordKnight",
+                "faction": "Kingdom",
                 "starting_items": [],
                 "starting_skills": [],
                 "team": "other",
@@ -317,7 +278,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "SwordFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Sword",
@@ -408,7 +369,6 @@
             {
                 "nid": "Enemy1",
                 "units": [
-                    "Breguet",
                     "101",
                     "102",
                     "103",
@@ -417,10 +377,6 @@
                     "106"
                 ],
                 "positions": {
-                    "Breguet": [
-                        2,
-                        5
-                    ],
                     "101": [
                         1,
                         6
@@ -449,10 +405,7 @@
             },
             {
                 "nid": "Rein",
-                "units": [
-                    "Gilliam",
-                    "Franz"
-                ],
+                "units": [],
                 "positions": {}
             },
             {
@@ -480,8 +433,8 @@
             {
                 "nid": "EirikaSeth",
                 "units": [
-                    "Eirika",
-                    "Seth"
+                    "Rhodys",
+                    "Akatos"
                 ],
                 "positions": {}
             }

@@ -25,7 +25,7 @@
         "go_to_overworld": false,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Rhodys",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -38,7 +38,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Akatos",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -46,97 +46,6 @@
                 "starting_position": [
                     0,
                     1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Franz",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    1,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Gilliam",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    0,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Vanessa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    6,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Moulder",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    3,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Ross",
-                "team": "other",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    10,
-                    5
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Garcia",
-                "team": "other",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    10,
-                    4
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Bone",
-                "team": "enemy",
-                "ai": "Pursue",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    9,
-                    14
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -145,8 +54,8 @@
                 "nid": "TopBandit",
                 "variant": null,
                 "level": 2,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -169,8 +78,8 @@
                 "nid": "BoneBuddy",
                 "variant": null,
                 "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -193,8 +102,8 @@
                 "nid": "103",
                 "variant": null,
                 "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -217,8 +126,8 @@
                 "nid": "104",
                 "variant": null,
                 "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -246,7 +155,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "Archer",
-                "faction": "Cutthroat",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Bow",
@@ -269,8 +178,8 @@
                 "nid": "106",
                 "variant": null,
                 "level": 2,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -293,8 +202,8 @@
                 "nid": "107",
                 "variant": null,
                 "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -458,7 +367,6 @@
                 "units": [
                     "TopBandit",
                     "105",
-                    "Bone",
                     "BoneBuddy"
                 ],
                 "positions": {
@@ -470,10 +378,6 @@
                         14,
                         9
                     ],
-                    "Bone": [
-                        13,
-                        7
-                    ],
                     "BoneBuddy": [
                         11,
                         7
@@ -482,20 +386,14 @@
             },
             {
                 "nid": "RossGarcia",
-                "units": [
-                    "Ross",
-                    "Garcia"
-                ],
+                "units": [],
                 "positions": {}
             },
             {
                 "nid": "BlueTeam",
                 "units": [
-                    "Eirika",
-                    "Seth",
-                    "Franz",
-                    "Gilliam",
-                    "Moulder"
+                    "Rhodys",
+                    "Akatos"
                 ],
                 "positions": {}
             }

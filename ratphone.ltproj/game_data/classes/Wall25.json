@@ -102,6 +102,22 @@
                 false,
                 0
             ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ],
             "Light": [
                 false,
                 0
@@ -111,14 +127,6 @@
                 0
             ],
             "Dark": [
-                false,
-                0
-            ],
-            "Default": [
-                false,
-                0
-            ],
-            "Magic": [
                 false,
                 0
             ]

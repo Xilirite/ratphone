@@ -5,13 +5,13 @@
         "desc": "A title earned only by those cavaliers whose lives have been dedicated to justice.",
         "tier": 2,
         "movement_group": "Heavy Cav",
-        "promotes_from": "Cavalier",
+        "promotes_from": null,
         "turns_into": [],
         "tags": [
             "Horse",
             "Mounted"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
             "HP": 23,
             "STR": 7,

@@ -1,52 +1,54 @@
 [
     {
-        "nid": "GrayPromo",
-        "name": "GrayPromo",
-        "desc": "??",
-        "tier": 2,
-        "movement_group": "Heavy Cav",
-        "promotes_from": "Illusionist",
-        "turns_into": [],
+        "nid": "AxeArmor",
+        "name": "Axe Armor",
+        "desc": "Heavily armored knights with poor movement.",
+        "tier": 1,
+        "movement_group": "Armors",
+        "promotes_from": null,
+        "turns_into": [
+            "General",
+            "GreatKnight"
+        ],
         "tags": [
-            "Horse",
-            "Mounted"
+            "Armor"
         ],
         "max_level": 20,
         "bases": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 25,
+            "STR": 8,
             "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
+            "SPD": 1,
+            "LCK": 2,
+            "DEF": 12,
+            "CON": 7,
+            "MOV": 5,
             "RES": 0,
-            "CON": 0,
-            "MOV": 0,
-            "DEX": 0
+            "DEX": 6
         },
         "growths": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
+            "HP": 110,
+            "STR": 70,
+            "MAG": 20,
+            "SPD": 40,
+            "LCK": 15,
+            "DEF": 90,
+            "CON": 20,
             "MOV": 0,
-            "DEX": 0
+            "RES": 40,
+            "DEX": 65
         },
         "growth_bonus": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 20,
+            "STR": 15,
             "MAG": 0,
             "SPD": 0,
             "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
+            "DEF": 30,
+            "CON": 5,
             "MOV": 0,
-            "DEX": 0
+            "RES": 0,
+            "DEX": 10
         },
         "promotion": {
             "HP": -99,
@@ -55,22 +57,22 @@
             "SPD": -99,
             "LCK": -99,
             "DEF": -99,
-            "RES": -99,
             "CON": -99,
             "MOV": -99,
+            "RES": -99,
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 27,
-            "MAG": 20,
-            "SPD": 27,
-            "LCK": 30,
-            "DEF": 23,
-            "RES": 23,
-            "CON": 25,
+            "HP": 75,
+            "STR": 42,
+            "MAG": 16,
+            "SPD": 17,
+            "LCK": 25,
+            "DEF": 51,
+            "CON": 20,
             "MOV": 20,
-            "DEX": 26
+            "RES": 16,
+            "DEX": 39
         },
         "learned_skills": [],
         "wexp_gain": {
@@ -83,8 +85,8 @@
                 0
             ],
             "Axe": [
-                false,
-                0
+                true,
+                3
             ],
             "Bow": [
                 false,
@@ -123,13 +125,13 @@
                 0
             ]
         },
-        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_nid": "Generic_Portrait_Knight",
         "icon_index": [
             0,
             0
         ],
-        "map_sprite_nid": "Ephraim_Great_Lord",
-        "combat_anim_nid": null,
+        "map_sprite_nid": "Knight",
+        "combat_anim_nid": "Knight",
         "fields": []
     }
 ]

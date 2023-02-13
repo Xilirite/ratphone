@@ -25,7 +25,7 @@
         "go_to_overworld": false,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Rhodys",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -38,7 +38,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Akatos",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -46,120 +46,6 @@
                 "starting_position": [
                     1,
                     12
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Franz",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    0,
-                    11
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Gilliam",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    1,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Vanessa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    13
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Moulder",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    3,
-                    12
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Ross",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    3,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Garcia",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    9
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Neimi",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    1,
-                    10
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Colm",
-                "team": "other",
-                "ai": "Thief",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Bazba",
-                "team": "enemy",
-                "ai": "Guard",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    14,
-                    1
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -168,8 +54,8 @@
                 "nid": "101",
                 "variant": null,
                 "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -192,8 +78,8 @@
                 "nid": "102",
                 "variant": null,
                 "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Hand Axe",
@@ -216,8 +102,8 @@
                 "nid": "103",
                 "variant": null,
                 "level": 4,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Hand Axe",
@@ -240,8 +126,8 @@
                 "nid": "104",
                 "variant": null,
                 "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -268,8 +154,8 @@
                 "nid": "105",
                 "variant": null,
                 "level": 3,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Axe",
@@ -296,8 +182,8 @@
                 "nid": "106",
                 "variant": null,
                 "level": 2,
-                "klass": "Brigand",
-                "faction": "Cutthroat",
+                "klass": "Barbarian",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Steel Axe",
@@ -325,7 +211,7 @@
                 "variant": null,
                 "level": 2,
                 "klass": "SwordFighter",
-                "faction": "Cutthroat",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Sword",
@@ -353,7 +239,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "Archer",
-                "faction": "Cutthroat",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Bow",
@@ -377,7 +263,7 @@
                 "variant": null,
                 "level": 4,
                 "klass": "Thief",
-                "faction": "Cutthroat",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Sword",
@@ -457,8 +343,8 @@
                 "nid": "Placeholder",
                 "variant": null,
                 "level": 1,
-                "klass": "Citizen",
-                "faction": "Soldier",
+                "klass": "Villager",
+                "faction": "Kingdom",
                 "starting_items": [],
                 "starting_skills": [],
                 "team": "other",
@@ -612,15 +498,8 @@
             {
                 "nid": "PlayerTeam",
                 "units": [
-                    "Eirika",
-                    "Seth",
-                    "Franz",
-                    "Gilliam",
-                    "Vanessa",
-                    "Moulder",
-                    "Ross",
-                    "Neimi",
-                    "Garcia"
+                    "Rhodys",
+                    "Akatos"
                 ],
                 "positions": {}
             }

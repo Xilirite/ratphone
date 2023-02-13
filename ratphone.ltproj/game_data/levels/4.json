@@ -25,7 +25,7 @@
         "go_to_overworld": false,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Rhodys",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -38,30 +38,7 @@
                 "generic": false
             },
             {
-                "nid": "Artur",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    7,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Lute",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Seth",
+                "nid": "Akatos",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -74,89 +51,11 @@
                 "generic": false
             },
             {
-                "nid": "Gilliam",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    3,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Vanessa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    4,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Moulder",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    5,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Ross",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Colm",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    4,
-                    0
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Neimi",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    3,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -179,8 +78,8 @@
                 "nid": "102",
                 "variant": null,
                 "level": 1,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -203,8 +102,8 @@
                 "nid": "103",
                 "variant": null,
                 "level": 1,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -227,8 +126,8 @@
                 "nid": "104",
                 "variant": null,
                 "level": 2,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -251,8 +150,8 @@
                 "nid": "105",
                 "variant": null,
                 "level": 2,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -275,8 +174,8 @@
                 "nid": "106",
                 "variant": null,
                 "level": 2,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -299,8 +198,8 @@
                 "nid": "107",
                 "variant": null,
                 "level": 3,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -323,8 +222,8 @@
                 "nid": "108",
                 "variant": null,
                 "level": 3,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -347,8 +246,8 @@
                 "nid": "118",
                 "variant": null,
                 "level": 2,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Fetid Claw",
@@ -372,8 +271,8 @@
                 "nid": "119",
                 "variant": null,
                 "level": 2,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -393,8 +292,8 @@
                 "nid": "120",
                 "variant": null,
                 "level": 1,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -414,8 +313,8 @@
                 "nid": "121",
                 "variant": null,
                 "level": 1,
-                "klass": "Revenant",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Rotten Claw",
@@ -435,8 +334,8 @@
                 "nid": "Boss",
                 "variant": null,
                 "level": 1,
-                "klass": "Entombed",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Fetid Claw",
@@ -459,8 +358,8 @@
                 "nid": "109",
                 "variant": null,
                 "level": 2,
-                "klass": "Sword_Bonewalker",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Sword",
@@ -483,8 +382,8 @@
                 "nid": "110",
                 "variant": null,
                 "level": 3,
-                "klass": "Sword_Bonewalker",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Sword",
@@ -507,8 +406,8 @@
                 "nid": "111",
                 "variant": null,
                 "level": 3,
-                "klass": "Sword_Bonewalker",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Sword",
@@ -531,8 +430,8 @@
                 "nid": "115",
                 "variant": null,
                 "level": 1,
-                "klass": "Sword_Bonewalker",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -552,8 +451,8 @@
                 "nid": "116",
                 "variant": null,
                 "level": 1,
-                "klass": "Sword_Bonewalker",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -573,8 +472,8 @@
                 "nid": "117",
                 "variant": null,
                 "level": 2,
-                "klass": "Sword_Bonewalker",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -594,8 +493,8 @@
                 "nid": "112",
                 "variant": null,
                 "level": 1,
-                "klass": "Mogall",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Evil Eye",
@@ -618,8 +517,8 @@
                 "nid": "113",
                 "variant": null,
                 "level": 1,
-                "klass": "Mogall",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Evil Eye",
@@ -642,8 +541,8 @@
                 "nid": "114",
                 "variant": null,
                 "level": 2,
-                "klass": "Mogall",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Evil Eye",
@@ -666,8 +565,8 @@
                 "nid": "Mogall",
                 "variant": null,
                 "level": 1,
-                "klass": "Mogall",
-                "faction": "Monster",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Evil Eye",
@@ -704,45 +603,6 @@
                 ],
                 "starting_traveler": null,
                 "generic": true
-            },
-            {
-                "nid": "L'arachel",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    13,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Dozla",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    12,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Rennac",
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    14,
-                    1
-                ],
-                "starting_traveler": null,
-                "generic": false
             }
         ],
         "regions": [
@@ -970,14 +830,8 @@
             {
                 "nid": "PlayerTeam",
                 "units": [
-                    "Eirika",
-                    "Seth",
-                    "Gilliam",
-                    "Vanessa",
-                    "Moulder",
-                    "Ross",
-                    "Colm",
-                    "Neimi"
+                    "Rhodys",
+                    "Akatos"
                 ],
                 "positions": {}
             },
@@ -997,20 +851,8 @@
             },
             {
                 "nid": "LGang",
-                "units": [
-                    "L'arachel",
-                    "Dozla"
-                ],
-                "positions": {
-                    "L'arachel": [
-                        10,
-                        5
-                    ],
-                    "Dozla": [
-                        11,
-                        4
-                    ]
-                }
+                "units": [],
+                "positions": {}
             }
         ]
     }

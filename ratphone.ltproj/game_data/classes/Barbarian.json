@@ -1,50 +1,47 @@
 [
     {
-        "nid": "GrayPromo",
-        "name": "GrayPromo",
-        "desc": "??",
-        "tier": 2,
-        "movement_group": "Heavy Cav",
-        "promotes_from": "Illusionist",
+        "nid": "Barbarian",
+        "name": "Barbarian",
+        "desc": "Ruffians with a strong offense but poor defense.",
+        "tier": 1,
+        "movement_group": "Bandits",
+        "promotes_from": null,
         "turns_into": [],
-        "tags": [
-            "Horse",
-            "Mounted"
-        ],
-        "max_level": 20,
+        "tags": [],
+        "max_level": 40,
         "bases": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 26,
+            "STR": 9,
             "MAG": 0,
-            "SPD": 0,
+            "SPD": 5,
             "LCK": 0,
-            "DEF": 0,
+            "DEF": 2,
             "RES": 0,
-            "CON": 0,
-            "MOV": 0,
+            "CON": 9,
+            "MOV": 5,
             "DEX": 0
         },
         "growths": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
+            "HP": 115,
+            "STR": 80,
+            "MAG": 20,
+            "SPD": 50,
+            "LCK": 10,
+            "DEF": 55,
+            "RES": 45,
+            "CON": 20,
             "MOV": 0,
-            "DEX": 0
+            "DEX": 65
         },
         "growth_bonus": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 30,
+            "STR": 30,
             "MAG": 0,
-            "SPD": 0,
+            "SPD": 10,
             "LCK": 0,
-            "DEF": 0,
+            "DEF": 10,
             "RES": 0,
-            "CON": 0,
+            "CON": 15,
             "MOV": 0,
             "DEX": 0
         },
@@ -61,16 +58,16 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 27,
-            "MAG": 20,
-            "SPD": 27,
-            "LCK": 30,
+            "HP": 85,
+            "STR": 46,
+            "MAG": 15,
+            "SPD": 26,
+            "LCK": 16,
             "DEF": 23,
-            "RES": 23,
-            "CON": 25,
+            "RES": 15,
+            "CON": 21,
             "MOV": 20,
-            "DEX": 26
+            "DEX": 30
         },
         "learned_skills": [],
         "wexp_gain": {
@@ -83,8 +80,8 @@
                 0
             ],
             "Axe": [
-                false,
-                0
+                true,
+                4
             ],
             "Bow": [
                 false,
@@ -123,13 +120,13 @@
                 0
             ]
         },
-        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_nid": "Generic_Portrait_Brigand",
         "icon_index": [
             0,
             0
         ],
-        "map_sprite_nid": "Ephraim_Great_Lord",
-        "combat_anim_nid": null,
+        "map_sprite_nid": "Brigand",
+        "combat_anim_nid": "Brigand",
         "fields": []
     }
 ]

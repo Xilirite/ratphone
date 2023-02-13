@@ -1,52 +1,52 @@
 [
     {
-        "nid": "GrayPromo",
-        "name": "GrayPromo",
-        "desc": "??",
+        "nid": "GriffinKnight",
+        "name": "Griffin Knight",
+        "desc": "Veteran pegasus knights.",
         "tier": 2,
-        "movement_group": "Heavy Cav",
-        "promotes_from": "Illusionist",
+        "movement_group": "Light Cav",
+        "promotes_from": null,
         "turns_into": [],
         "tags": [
-            "Horse",
-            "Mounted"
+            "Mounted",
+            "Flying"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
-            "MOV": 0,
-            "DEX": 0
+            "HP": 22,
+            "STR": 7,
+            "MAG": 3,
+            "SPD": 11,
+            "LCK": 5,
+            "DEF": 4,
+            "RES": 9,
+            "CON": 5,
+            "MOV": 7,
+            "DEX": 10
         },
         "growths": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
+            "HP": 95,
+            "STR": 65,
+            "MAG": 65,
+            "SPD": 80,
+            "LCK": 35,
+            "DEF": 60,
+            "RES": 65,
+            "CON": 15,
             "MOV": 0,
-            "DEX": 0
+            "DEX": 80
         },
         "growth_bonus": {
             "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
+            "STR": 10,
+            "MAG": 15,
+            "SPD": 20,
+            "LCK": 15,
             "DEF": 0,
-            "RES": 0,
+            "RES": 15,
             "CON": 0,
             "MOV": 0,
-            "DEX": 0
+            "DEX": 15
         },
         "promotion": {
             "HP": -99,
@@ -61,26 +61,31 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 27,
-            "MAG": 20,
-            "SPD": 27,
-            "LCK": 30,
-            "DEF": 23,
-            "RES": 23,
-            "CON": 25,
+            "HP": 68,
+            "STR": 40,
+            "MAG": 37,
+            "SPD": 49,
+            "LCK": 35,
+            "DEF": 27,
+            "RES": 35,
+            "CON": 14,
             "MOV": 20,
-            "DEX": 26
+            "DEX": 48
         },
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "Flying"
+            ]
+        ],
         "wexp_gain": {
             "Sword": [
                 false,
                 0
             ],
             "Lance": [
-                false,
-                0
+                true,
+                4
             ],
             "Axe": [
                 false,
@@ -91,8 +96,8 @@
                 0
             ],
             "Staff": [
-                false,
-                0
+                true,
+                2
             ],
             "Magic": [
                 false,
@@ -123,12 +128,12 @@
                 0
             ]
         },
-        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_nid": "Generic_Portrait_Falcoknight",
         "icon_index": [
             0,
             0
         ],
-        "map_sprite_nid": "Ephraim_Great_Lord",
+        "map_sprite_nid": "Falcoknight",
         "combat_anim_nid": null,
         "fields": []
     }

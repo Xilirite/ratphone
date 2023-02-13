@@ -1,0 +1,86 @@
+[
+    {
+        "nid": "Rhodys",
+        "name": "Rhodys",
+        "desc": "A militia leader from Kynweald, with an insatiable curiosity and an ambitious drive.",
+        "variant": null,
+        "level": 1,
+        "klass": "Captain",
+        "tags": [
+            "Lord"
+        ],
+        "bases": {
+            "HP": 21,
+            "STR": 8,
+            "MAG": 4,
+            "SPD": 7,
+            "LCK": 6,
+            "DEF": 3,
+            "CON": 6,
+            "MOV": 5,
+            "RES": 4,
+            "DEX": 7
+        },
+        "growths": {
+            "HP": 75,
+            "STR": 50,
+            "MAG": 50,
+            "SPD": 50,
+            "LCK": 45,
+            "DEF": 35,
+            "CON": 15,
+            "MOV": 0,
+            "RES": 35,
+            "DEX": 50
+        },
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                3
+            ],
+            "Lance": [
+                false,
+                0
+            ],
+            "Axe": [
+                false,
+                0
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Light": [
+                false,
+                0
+            ],
+            "Anima": [
+                false,
+                0
+            ],
+            "Dark": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Eirika",
+        "affinity": "Fire",
+        "fields": []
+    }
+]

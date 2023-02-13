@@ -5,48 +5,48 @@
         "desc": "A title earned only by those cavaliers whose lives have been dedicated to justice.",
         "tier": 2,
         "movement_group": "Heavy Cav",
-        "promotes_from": "Cavalier",
+        "promotes_from": null,
         "turns_into": [],
         "tags": [
             "Horse",
             "Mounted"
         ],
-        "max_level": 20,
+        "max_level": 40,
         "bases": {
-            "HP": 23,
-            "STR": 7,
-            "MAG": 3,
-            "SPD": 11,
-            "LCK": 0,
-            "DEF": 8,
-            "CON": 11,
-            "MOV": 8,
-            "RES": 6,
-            "DEX": 6
+            "HP": 25,
+            "STR": 8,
+            "MAG": 2,
+            "SPD": 8,
+            "LCK": 3,
+            "DEF": 6,
+            "CON": 7,
+            "MOV": 7,
+            "RES": 3,
+            "DEX": 10
         },
         "growths": {
-            "HP": 70,
-            "STR": 25,
-            "MAG": 12,
-            "SPD": 25,
-            "LCK": 25,
-            "DEF": 12,
-            "CON": 0,
+            "HP": 105,
+            "STR": 75,
+            "MAG": 30,
+            "SPD": 65,
+            "LCK": 30,
+            "DEF": 75,
+            "CON": 15,
             "MOV": 0,
-            "RES": 25,
-            "DEX": 35
+            "RES": 65,
+            "DEX": 75
         },
         "growth_bonus": {
-            "HP": 0,
-            "STR": 0,
+            "HP": 15,
+            "STR": 15,
             "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
+            "SPD": 15,
+            "LCK": 10,
+            "DEF": 15,
             "CON": 0,
             "MOV": 0,
-            "RES": 0,
-            "DEX": 0
+            "RES": 15,
+            "DEX": 10
         },
         "promotion": {
             "HP": -99,
@@ -61,23 +61,18 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 25,
-            "MAG": 20,
-            "SPD": 25,
+            "HP": 77,
+            "STR": 45,
+            "MAG": 21,
+            "SPD": 37,
             "LCK": 30,
-            "DEF": 25,
-            "CON": 25,
-            "MOV": 15,
-            "RES": 26,
-            "DEX": 27
+            "DEF": 35,
+            "CON": 16,
+            "MOV": 20,
+            "RES": 29,
+            "DEX": 45
         },
-        "learned_skills": [
-            [
-                1,
-                "Canto"
-            ]
-        ],
+        "learned_skills": [],
         "wexp_gain": {
             "Sword": [
                 true,

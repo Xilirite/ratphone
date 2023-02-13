@@ -133,11 +133,11 @@
     ],
     [
         "promote_level_reset",
-        true
+        false
     ],
     [
         "class_change_level_reset",
-        true
+        false
     ],
     [
         "learn_skills_on_reclass",
@@ -153,7 +153,7 @@
     ],
     [
         "class_change_same_tier",
-        false
+        true
     ],
     [
         "generic_feats",

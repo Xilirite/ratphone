@@ -1,0 +1,88 @@
+[
+    {
+        "nid": "Akatos",
+        "name": "Akatos",
+        "desc": "A young commander of Renais.\nHe's calm, composed, and skilled.",
+        "variant": null,
+        "level": 20,
+        "klass": "WolfRider",
+        "tags": [],
+        "bases": {
+            "HP": 33,
+            "STR": 12,
+            "MAG": 6,
+            "SPD": 18,
+            "LCK": 10,
+            "DEF": 9,
+            "CON": 9,
+            "MOV": 7,
+            "RES": 11,
+            "DEX": 13
+        },
+        "growths": {
+            "HP": 90,
+            "STR": 30,
+            "MAG": 25,
+            "SPD": 55,
+            "LCK": 35,
+            "DEF": 45,
+            "CON": 30,
+            "MOV": 0,
+            "RES": 45,
+            "DEX": 55
+        },
+        "starting_items": [],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                0
+            ],
+            "Lance": [
+                true,
+                4
+            ],
+            "Axe": [
+                false,
+                0
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Light": [
+                false,
+                0
+            ],
+            "Anima": [
+                false,
+                0
+            ],
+            "Dark": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                5
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Seth",
+        "affinity": "Wind",
+        "fields": []
+    }
+]

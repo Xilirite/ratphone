@@ -25,20 +25,7 @@
         "go_to_overworld": false,
         "units": [
             {
-                "nid": "Bone",
-                "team": "enemy",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    5
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Eirika",
+                "nid": "Rhodys",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -55,7 +42,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Iron Lance",
@@ -83,7 +70,7 @@
                 "generic": true
             },
             {
-                "nid": "Seth",
+                "nid": "Akatos",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -96,37 +83,11 @@
                 "generic": false
             },
             {
-                "nid": "Moulder",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    1,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
-                "nid": "Vanessa",
-                "team": "player",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    2
-                ],
-                "starting_traveler": null,
-                "generic": false
-            },
-            {
                 "nid": "101",
                 "variant": null,
                 "level": 1,
-                "klass": "Shaman",
-                "faction": "Soldier",
+                "klass": "Captain",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "Flux",
@@ -154,7 +115,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "SwordFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "IronSword",
@@ -178,7 +139,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "TestLance",
@@ -202,7 +163,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "TestLance",
@@ -226,7 +187,7 @@
                 "variant": null,
                 "level": 1,
                 "klass": "LanceFighter",
-                "faction": "Soldier",
+                "faction": "Kingdom",
                 "starting_items": [
                     [
                         "TestLance",

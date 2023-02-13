@@ -8,45 +8,45 @@
         "promotes_from": null,
         "turns_into": [
             "Sage",
-            "Mage Knight"
+            "MageKnight"
         ],
         "tags": [],
         "max_level": 20,
         "bases": {
-            "HP": 16,
-            "STR": 0,
-            "MAG": 1,
-            "SPD": 3,
-            "LCK": 0,
-            "DEF": 3,
-            "RES": 4,
-            "CON": 5,
+            "HP": 18,
+            "STR": 1,
+            "MAG": 7,
+            "SPD": 6,
+            "LCK": 2,
+            "DEF": 1,
+            "RES": 7,
+            "CON": 4,
             "MOV": 5,
-            "DEX": 3
+            "DEX": 6
         },
         "growths": {
-            "HP": 55,
-            "STR": 0,
-            "MAG": 55,
-            "SPD": 35,
-            "LCK": 20,
-            "DEF": 5,
-            "RES": 40,
-            "CON": 0,
+            "HP": 50,
+            "STR": 45,
+            "MAG": 60,
+            "SPD": 55,
+            "LCK": 15,
+            "DEF": 50,
+            "RES": 80,
+            "CON": 10,
             "MOV": 0,
-            "DEX": 40
+            "DEX": 55
         },
         "growth_bonus": {
             "HP": 0,
             "STR": 0,
-            "MAG": 0,
+            "MAG": 25,
             "SPD": 0,
-            "LCK": 0,
+            "LCK": 5,
             "DEF": 0,
-            "RES": 0,
+            "RES": 25,
             "CON": 0,
             "MOV": 0,
-            "DEX": 0
+            "DEX": 5
         },
         "promotion": {
             "HP": -99,
@@ -61,16 +61,16 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 20,
-            "MAG": 20,
-            "SPD": 20,
-            "LCK": 30,
+            "HP": 43,
+            "STR": 26,
+            "MAG": 40,
+            "SPD": 30,
+            "LCK": 24,
             "DEF": 20,
-            "RES": 20,
-            "CON": 20,
-            "MOV": 15,
-            "DEX": 20
+            "RES": 40,
+            "CON": 11,
+            "MOV": 20,
+            "DEX": 28
         },
         "learned_skills": [],
         "wexp_gain": {
@@ -96,7 +96,7 @@
             ],
             "Magic": [
                 true,
-                31
+                3
             ],
             "Default": [
                 false,

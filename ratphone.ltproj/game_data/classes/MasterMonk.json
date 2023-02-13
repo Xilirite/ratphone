@@ -1,49 +1,46 @@
 [
     {
-        "nid": "GrayPromo",
-        "name": "GrayPromo",
-        "desc": "??",
+        "nid": "MasterMonk",
+        "name": "Master Monk",
+        "desc": "Mages gifted with visions of the future.",
         "tier": 2,
-        "movement_group": "Heavy Cav",
-        "promotes_from": "Illusionist",
+        "movement_group": "Mages",
+        "promotes_from": null,
         "turns_into": [],
-        "tags": [
-            "Horse",
-            "Mounted"
-        ],
-        "max_level": 20,
+        "tags": [],
+        "max_level": 40,
         "bases": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
-            "MOV": 0,
-            "DEX": 0
+            "HP": 22,
+            "STR": 6,
+            "MAG": 5,
+            "SPD": 5,
+            "LCK": 4,
+            "DEF": 4,
+            "RES": 7,
+            "CON": 6,
+            "MOV": 6,
+            "DEX": 6
         },
         "growths": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
-            "CON": 0,
+            "HP": 90,
+            "STR": 60,
+            "MAG": 75,
+            "SPD": 55,
+            "LCK": 25,
+            "DEF": 60,
+            "RES": 80,
+            "CON": 15,
             "MOV": 0,
-            "DEX": 0
+            "DEX": 50
         },
         "growth_bonus": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
+            "HP": 5,
+            "STR": 10,
+            "MAG": 20,
             "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "RES": 0,
+            "LCK": 10,
+            "DEF": 15,
+            "RES": 25,
             "CON": 0,
             "MOV": 0,
             "DEX": 0
@@ -61,14 +58,14 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 60,
-            "STR": 27,
-            "MAG": 20,
-            "SPD": 27,
-            "LCK": 30,
-            "DEF": 23,
-            "RES": 23,
-            "CON": 25,
+            "HP": 66,
+            "STR": 38,
+            "MAG": 41,
+            "SPD": 28,
+            "LCK": 29,
+            "DEF": 27,
+            "RES": 39,
+            "CON": 15,
             "MOV": 20,
             "DEX": 26
         },
@@ -91,8 +88,8 @@
                 0
             ],
             "Staff": [
-                false,
-                0
+                true,
+                4
             ],
             "Magic": [
                 false,
@@ -107,29 +104,29 @@
                 0
             ],
             "BrawlingUnused": [
-                false,
-                0
+                true,
+                5
             ],
             "Light": [
-                false,
-                0
+                true,
+                16
             ],
             "Anima": [
-                false,
-                0
+                true,
+                16
             ],
             "Dark": [
                 false,
                 0
             ]
         },
-        "icon_nid": "Generic_Portrait_Citizen",
+        "icon_nid": "Generic_Portrait_Bishop",
         "icon_index": [
             0,
             0
         ],
-        "map_sprite_nid": "Ephraim_Great_Lord",
-        "combat_anim_nid": null,
+        "map_sprite_nid": "Bishop",
+        "combat_anim_nid": "Bishop",
         "fields": []
     }
 ]
