@@ -1,0 +1,135 @@
+[
+    {
+        "nid": "RoyalKnight",
+        "name": "Royal Knight",
+        "desc": "A title earned only by those cavaliers whose lives have been dedicated to justice.",
+        "tier": 2,
+        "movement_group": "Heavy Cav",
+        "promotes_from": "Cavalier",
+        "turns_into": [],
+        "tags": [
+            "Horse",
+            "Mounted"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 23,
+            "STR": 7,
+            "MAG": 5,
+            "SPD": 8,
+            "LCK": 5,
+            "DEF": 5,
+            "CON": 6,
+            "MOV": 7,
+            "RES": 4,
+            "DEX": 9
+        },
+        "growths": {
+            "HP": 95,
+            "STR": 70,
+            "MAG": 70,
+            "SPD": 70,
+            "LCK": 30,
+            "DEF": 60,
+            "CON": 10,
+            "MOV": 0,
+            "RES": 75,
+            "DEX": 80
+        },
+        "growth_bonus": {
+            "HP": 5,
+            "STR": 10,
+            "MAG": 15,
+            "SPD": 15,
+            "LCK": 10,
+            "DEF": 5,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 20,
+            "DEX": 15
+        },
+        "promotion": {
+            "HP": -99,
+            "STR": -99,
+            "MAG": -99,
+            "SPD": -99,
+            "LCK": -99,
+            "DEF": -99,
+            "CON": -99,
+            "MOV": -99,
+            "RES": -99,
+            "DEX": -99
+        },
+        "max_stats": {
+            "HP": 69,
+            "STR": 43,
+            "MAG": 39,
+            "SPD": 40,
+            "LCK": 32,
+            "DEF": 28,
+            "CON": 12,
+            "MOV": 20,
+            "RES": 36,
+            "DEX": 47
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0
+            ],
+            "Lance": [
+                true,
+                30
+            ],
+            "Axe": [
+                false,
+                0
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                true,
+                31
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ],
+            "Light": [
+                false,
+                0
+            ],
+            "Anima": [
+                false,
+                0
+            ],
+            "Dark": [
+                false,
+                0
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Paladin",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Paladin",
+        "combat_anim_nid": "Paladin",
+        "fields": []
+    }
+]

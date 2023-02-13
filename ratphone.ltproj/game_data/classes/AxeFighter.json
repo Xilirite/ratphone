@@ -1,0 +1,135 @@
+[
+    {
+        "nid": "AxeFighter",
+        "name": "Axe Fighter",
+        "desc": "Ruffians with great strength but\npoor defense.",
+        "tier": 1,
+        "movement_group": "Regular",
+        "promotes_from": null,
+        "turns_into": [
+            "HeroSA",
+            "Warrior"
+        ],
+        "tags": [],
+        "max_level": 20,
+        "bases": {
+            "HP": 26,
+            "STR": 9,
+            "MAG": 0,
+            "SPD": 5,
+            "LCK": 1,
+            "DEF": 3,
+            "CON": 7,
+            "MOV": 5,
+            "RES": 1,
+            "DEX": 5
+        },
+        "growths": {
+            "HP": 120,
+            "STR": 70,
+            "MAG": 20,
+            "SPD": 50,
+            "LCK": 5,
+            "DEF": 50,
+            "CON": 15,
+            "MOV": 0,
+            "RES": 35,
+            "DEX": 45
+        },
+        "growth_bonus": {
+            "HP": 25,
+            "STR": 20,
+            "MAG": 0,
+            "SPD": 10,
+            "LCK": 0,
+            "DEF": 5,
+            "CON": 5,
+            "MOV": 0,
+            "RES": 0,
+            "DEX": 5
+        },
+        "promotion": {
+            "HP": -99,
+            "STR": -99,
+            "MAG": -99,
+            "SPD": -99,
+            "LCK": -99,
+            "DEF": -99,
+            "CON": -99,
+            "MOV": -99,
+            "RES": -99,
+            "DEX": -99
+        },
+        "max_stats": {
+            "HP": 94,
+            "STR": 46,
+            "MAG": 17,
+            "SPD": 29,
+            "LCK": 23,
+            "DEF": 20,
+            "CON": 20,
+            "MOV": 20,
+            "RES": 11,
+            "DEX": 23
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0
+            ],
+            "Lance": [
+                false,
+                0
+            ],
+            "Axe": [
+                true,
+                31
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ],
+            "Light": [
+                false,
+                0
+            ],
+            "Anima": [
+                false,
+                0
+            ],
+            "Dark": [
+                false,
+                0
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Fighter",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Fighter",
+        "combat_anim_nid": "Fighter",
+        "fields": []
+    }
+]

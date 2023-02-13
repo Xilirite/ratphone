@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "CantCounter",
+        "name": "CantCounter",
+        "desc": "override to prevent counter attacks",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "cannot_counter",
+                null
+            ]
+        ]
+    }
+]

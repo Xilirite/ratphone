@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "BreakGlobal",
+        "name": "BreakGlobal",
+        "desc": "global skill that checks for weapon triangle and inflicts break if initiating and target isn't immune. Separate from the WTA global to account for unbreakable effects.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "combat_condition",
+                "combat_calcs.compute_advantage(unit, target, unit.get_weapon(), target.get_weapon(), True).modification > 0"
+            ],
+            [
+                "global",
+                null
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "give_status_after_hit",
+                "Broken"
+            ]
+        ]
+    }
+]

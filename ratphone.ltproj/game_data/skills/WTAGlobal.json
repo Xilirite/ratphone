@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "WTAGlobal",
+        "name": "WTAGlobal",
+        "desc": "global skill that checks for weapon triangle and gives hit if initiating",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "combat_condition",
+                "(combat_calcs.compute_advantage(unit, target, unit.get_weapon(), target.get_weapon(), True).modification > 0) and "
+            ],
+            [
+                "hit",
+                15
+            ],
+            [
+                "global",
+                null
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

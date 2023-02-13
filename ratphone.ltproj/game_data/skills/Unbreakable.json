@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Unbreakable",
+        "name": "Unbreakable",
+        "desc": "Unit is immune to break effects.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

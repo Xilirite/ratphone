@@ -1,0 +1,132 @@
+[
+    {
+        "nid": "Warrior",
+        "name": "Warrior",
+        "desc": "Determined fighters who relish battle.",
+        "tier": 2,
+        "movement_group": "Regular",
+        "promotes_from": "AxeFighter",
+        "turns_into": [],
+        "tags": [],
+        "max_level": 20,
+        "bases": {
+            "HP": 27,
+            "STR": 12,
+            "MAG": 1,
+            "SPD": 7,
+            "LCK": 2,
+            "DEF": 4,
+            "RES": 3,
+            "CON": 8,
+            "MOV": 6,
+            "DEX": 7
+        },
+        "growths": {
+            "HP": 130,
+            "STR": 75,
+            "MAG": 30,
+            "SPD": 60,
+            "LCK": 10,
+            "DEF": 60,
+            "RES": 45,
+            "CON": 20,
+            "MOV": 0,
+            "DEX": 55
+        },
+        "growth_bonus": {
+            "HP": 25,
+            "STR": 20,
+            "MAG": 0,
+            "SPD": 15,
+            "LCK": 0,
+            "DEF": 10,
+            "RES": 5,
+            "CON": 5,
+            "MOV": 0,
+            "DEX": 10
+        },
+        "promotion": {
+            "HP": -99,
+            "STR": -99,
+            "MAG": -99,
+            "SPD": -99,
+            "LCK": -99,
+            "DEF": -99,
+            "RES": -99,
+            "CON": -99,
+            "MOV": -99,
+            "DEX": -99
+        },
+        "max_stats": {
+            "HP": 94,
+            "STR": 46,
+            "MAG": 20,
+            "SPD": 33,
+            "LCK": 23,
+            "DEF": 27,
+            "RES": 18,
+            "CON": 20,
+            "MOV": 20,
+            "DEX": 30
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0
+            ],
+            "Lance": [
+                false,
+                0
+            ],
+            "Axe": [
+                true,
+                40
+            ],
+            "Bow": [
+                true,
+                1
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ],
+            "Light": [
+                false,
+                0
+            ],
+            "Anima": [
+                false,
+                0
+            ],
+            "Dark": [
+                false,
+                0
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Warrior",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Warrior",
+        "combat_anim_nid": "Warrior",
+        "fields": []
+    }
+]
