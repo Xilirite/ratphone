@@ -5,7 +5,7 @@
         "desc": "A young commander of Renais.\nHe's calm, composed, and skilled.",
         "variant": null,
         "level": 1,
-        "klass": "MageKnightLance",
+        "klass": "WolfRiderLance",
         "tags": [],
         "bases": {
             "HP": 30,
