@@ -1,0 +1,141 @@
+[
+    {
+        "nid": "DragonKnightSA",
+        "name": "Dragon Knight",
+        "desc": "",
+        "tier": 2,
+        "movement_group": "Fliers",
+        "promotes_from": null,
+        "turns_into": [],
+        "tags": [
+            "Mounted",
+            "Dragon",
+            "Flying"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 25,
+            "STR": 9,
+            "MAG": 1,
+            "SPD": 9,
+            "LCK": 3,
+            "DEF": 6,
+            "RES": 5,
+            "CON": 6,
+            "MOV": 7,
+            "DEX": 8
+        },
+        "growths": {
+            "HP": 115,
+            "STR": 75,
+            "MAG": 55,
+            "SPD": 65,
+            "LCK": 20,
+            "DEF": 75,
+            "RES": 50,
+            "CON": 20,
+            "MOV": 0,
+            "DEX": 75
+        },
+        "growth_bonus": {
+            "HP": 20,
+            "STR": 20,
+            "MAG": 0,
+            "SPD": 5,
+            "LCK": 5,
+            "DEF": 20,
+            "RES": 5,
+            "CON": 5,
+            "MOV": 0,
+            "DEX": 10
+        },
+        "promotion": {
+            "HP": -99,
+            "STR": -99,
+            "MAG": -99,
+            "SPD": -99,
+            "LCK": -99,
+            "DEF": -99,
+            "RES": -99,
+            "CON": -99,
+            "MOV": -99,
+            "DEX": -99
+        },
+        "max_stats": {
+            "HP": 83,
+            "STR": 46,
+            "MAG": 31,
+            "SPD": 38,
+            "LCK": 25,
+            "DEF": 35,
+            "RES": 22,
+            "CON": 18,
+            "MOV": 20,
+            "DEX": 43
+        },
+        "learned_skills": [
+            [
+                1,
+                "Flying"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                3
+            ],
+            "Lance": [
+                false,
+                0
+            ],
+            "Axe": [
+                true,
+                3
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ],
+            "Light": [
+                false,
+                0
+            ],
+            "Anima": [
+                false,
+                0
+            ],
+            "Dark": [
+                false,
+                0
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Wyvern_Lord",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "WyvernLord",
+        "combat_anim_nid": "Wyvern Lord",
+        "fields": []
+    }
+]

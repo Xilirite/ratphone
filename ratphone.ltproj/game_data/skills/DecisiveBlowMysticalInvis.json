@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "DecisiveBlowMysticalInvis",
+        "name": "Decisive Blow",
+        "desc": "Active when Engaged. When initiating combat, add Mag to physical attacks.\n[Mystical Bonus] Also add Str to magical attacks.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "condition",
+                "unit.has_skill(unit, 'KwameEngaged') and mode == 'attack'"
+            ],
+            [
+                "eval_damage",
+                "unit.get_stat('STR')"
+            ]
+        ]
+    }
+]

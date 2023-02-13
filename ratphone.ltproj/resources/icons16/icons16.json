@@ -71,5 +71,21 @@
     {
         "nid": "Is_snes02_charm",
         "subicon_dict": {}
+    },
+    {
+        "nid": "KaiserSchwert",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Arachnid",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "{Zarg} Unmoor",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "kwame",
+        "subicon_dict": {}
     }
 ]

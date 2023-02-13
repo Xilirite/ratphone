@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "RagnarokFlying",
+        "name": "Ragnarok",
+        "desc": "Kwame unleashes an apocalyptic spell, heavily damaging all foes within 3 spaces. After casting, all allies gain +100 hit, +100 dodge, can move through enemies, and will strike first when attacked. Effects last 1 turn.\n[Covert Bonus] Allies also ignore terrain costs.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "grey_if_inactive",
+                null
+            ],
+            [
+                "condition",
+                "False"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "nid": "GeneralLance",
+        "name": "General",
+        "desc": "",
+        "tier": 2,
+        "movement_group": "Armors",
+        "promotes_from": null,
+        "turns_into": [],
+        "tags": [
+            "Armor"
+        ],
+        "max_level": 40,
+        "bases": {
+            "HP": 28,
+            "STR": 11,
+            "MAG": 1,
+            "SPD": 2,
+            "LCK": 3,
+            "DEF": 14,
+            "RES": 1,
+            "CON": 10,
+            "MOV": 6,
+            "DEX": 7
+        },
+        "growths": {
+            "HP": 115,
+            "STR": 80,
+            "MAG": 20,
+            "SPD": 40,
+            "LCK": 20,
+            "DEF": 95,
+            "RES": 45,
+            "CON": 25,
+            "MOV": 0,
+            "DEX": 70
+        },
+        "growth_bonus": {
+            "HP": 25,
+            "STR": 20,
+            "MAG": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 30,
+            "RES": 0,
+            "CON": 10,
+            "MOV": 0,
+            "DEX": 10
+        },
+        "promotion": {
+            "HP": -99,
+            "STR": -99,
+            "MAG": -99,
+            "SPD": -99,
+            "LCK": -99,
+            "DEF": -99,
+            "RES": -99,
+            "CON": -99,
+            "MOV": -99,
+            "DEX": -99
+        },
+        "max_stats": {
+            "HP": 86,
+            "STR": 47,
+            "MAG": 16,
+            "SPD": 17,
+            "LCK": 25,
+            "DEF": 55,
+            "RES": 16,
+            "CON": 25,
+            "MOV": 20,
+            "DEX": 39
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0
+            ],
+            "Lance": [
+                true,
+                4
+            ],
+            "Axe": [
+                false,
+                0
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ],
+            "Light": [
+                false,
+                0
+            ],
+            "Anima": [
+                false,
+                0
+            ],
+            "Dark": [
+                false,
+                0
+            ]
+        },
+        "icon_nid": "Generic_Portrait_General",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "General",
+        "combat_anim_nid": "General",
+        "fields": []
+    }
+]

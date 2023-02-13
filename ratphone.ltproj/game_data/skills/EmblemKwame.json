@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "EmblemKwame",
+        "name": "Emblem Kwame",
+        "desc": "Unit is the Operator of Emblem Kwame.",
+        "icon_nid": "kwame",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

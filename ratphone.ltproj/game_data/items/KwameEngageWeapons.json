@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "KwameEngageWeapons",
+        "name": "Engaged Weapons",
+        "desc": "Weapons wielded by the currently engaged Emblem.",
+        "icon_nid": "kwame",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "multi_item",
+                [
+                    "KwameUnmoor",
+                    "KwameArachnid",
+                    "KwameRecover"
+                ]
+            ],
+            [
+                "multi_item_hides_unavailable",
+                null
+            ]
+        ]
+    }
+]

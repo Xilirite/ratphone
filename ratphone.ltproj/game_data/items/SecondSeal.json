@@ -1,0 +1,48 @@
+[
+    {
+        "nid": "SecondSeal",
+        "name": "Second Seal",
+        "desc": "Changes a unit's class to another of the same tier.",
+        "icon_nid": "Boosters",
+        "icon_index": [
+            0,
+            14
+        ],
+        "components": [
+            [
+                "usable",
+                null
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "uses",
+                1
+            ],
+            [
+                "uses_options",
+                [
+                    [
+                        "LoseUsesOnMiss (T/F)",
+                        "F",
+                        "Lose uses even on miss"
+                    ]
+                ]
+            ],
+            [
+                "usable_in_base",
+                null
+            ],
+            [
+                "value",
+                2000
+            ],
+            [
+                "class_change",
+                null
+            ]
+        ]
+    }
+]

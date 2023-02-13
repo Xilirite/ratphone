@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "AncientKnowledgeBuffDivine",
+        "name": "Ancient Knowledge",
+        "desc": "Unit earns +30% experience.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "exp_multiplier",
+                1.3
+            ],
+            [
+                "unit_flickering_tint",
+                [
+                    170,
+                    255,
+                    127
+                ]
+            ]
+        ]
+    }
+]

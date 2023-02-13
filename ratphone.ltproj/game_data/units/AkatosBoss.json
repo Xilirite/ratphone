@@ -5,7 +5,7 @@
         "desc": "A young commander of Renais.\nHe's calm, composed, and skilled.",
         "variant": null,
         "level": 1,
-        "klass": "Paladin",
+        "klass": "MageKnightLance",
         "tags": [],
         "bases": {
             "HP": 30,
@@ -37,11 +37,11 @@
         "wexp_gain": {
             "Sword": [
                 true,
-                181
+                0
             ],
             "Lance": [
                 true,
-                181
+                4
             ],
             "Axe": [
                 false,
@@ -74,11 +74,15 @@
             "Magic": [
                 false,
                 0
+            ],
+            "Daggers": [
+                false,
+                5
             ]
         },
         "alternate_classes": [],
         "portrait_nid": "Seth",
-        "affinity": "Anima",
+        "affinity": "Wind",
         "fields": []
     }
 ]

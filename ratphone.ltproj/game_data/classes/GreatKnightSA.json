@@ -1,51 +1,53 @@
 [
     {
-        "nid": "General",
-        "name": "General",
-        "desc": "",
-        "tier": 2,
+        "nid": "GreatKnightSA",
+        "name": "Great Knight",
+        "desc": "Veteran horse knights.",
+        "tier": 1,
         "movement_group": "Armors",
         "promotes_from": null,
         "turns_into": [],
         "tags": [
+            "Horse",
+            "Mounted",
             "Armor"
         ],
         "max_level": 40,
         "bases": {
-            "HP": 28,
-            "STR": 11,
-            "MAG": 1,
-            "SPD": 2,
+            "HP": 26,
+            "STR": 9,
+            "MAG": 2,
+            "SPD": 5,
             "LCK": 3,
-            "DEF": 14,
-            "RES": 1,
-            "CON": 10,
-            "MOV": 6,
-            "DEX": 7
+            "DEF": 13,
+            "RES": 2,
+            "CON": 8,
+            "MOV": 7,
+            "DEX": 8
         },
         "growths": {
-            "HP": 115,
-            "STR": 80,
-            "MAG": 20,
-            "SPD": 40,
-            "LCK": 20,
-            "DEF": 95,
-            "RES": 45,
-            "CON": 25,
+            "HP": 100,
+            "STR": 65,
+            "MAG": 25,
+            "SPD": 50,
+            "LCK": 30,
+            "DEF": 90,
+            "RES": 55,
+            "CON": 20,
             "MOV": 0,
-            "DEX": 70
+            "DEX": 75
         },
         "growth_bonus": {
-            "HP": 25,
-            "STR": 20,
+            "HP": 20,
+            "STR": 15,
             "MAG": 0,
             "SPD": 0,
-            "LCK": 0,
-            "DEF": 30,
-            "RES": 0,
-            "CON": 10,
+            "LCK": 5,
+            "DEF": 25,
+            "RES": 10,
+            "CON": 5,
             "MOV": 0,
-            "DEX": 10
+            "DEX": 15
         },
         "promotion": {
             "HP": -99,
@@ -60,30 +62,30 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 86,
-            "STR": 47,
-            "MAG": 16,
-            "SPD": 17,
-            "LCK": 25,
-            "DEF": 55,
-            "RES": 16,
-            "CON": 25,
+            "HP": 75,
+            "STR": 42,
+            "MAG": 19,
+            "SPD": 25,
+            "LCK": 30,
+            "DEF": 51,
+            "RES": 22,
+            "CON": 20,
             "MOV": 20,
-            "DEX": 39
+            "DEX": 43
         },
         "learned_skills": [],
         "wexp_gain": {
             "Sword": [
-                2,
-                1
+                true,
+                3
             ],
             "Lance": [
-                2,
-                40
+                false,
+                0
             ],
             "Axe": [
-                2,
-                1
+                true,
+                3
             ],
             "Bow": [
                 false,
@@ -122,13 +124,13 @@
                 0
             ]
         },
-        "icon_nid": "Generic_Portrait_General",
+        "icon_nid": "Generic_Portrait_Great_Knight",
         "icon_index": [
             0,
             0
         ],
-        "map_sprite_nid": "General",
-        "combat_anim_nid": "General",
+        "map_sprite_nid": "Great_Knight",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

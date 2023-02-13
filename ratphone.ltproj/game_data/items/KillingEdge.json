@@ -1,0 +1,66 @@
+[
+    {
+        "nid": "KillingEdge",
+        "name": "Killing Edge",
+        "desc": "Increased critical chance, but cannot break.",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            12
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                2500
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                9
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "crit",
+                30
+            ],
+            [
+                "weight",
+                10
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Sword"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "status_on_equip",
+                "Canto"
+            ]
+        ]
+    }
+]

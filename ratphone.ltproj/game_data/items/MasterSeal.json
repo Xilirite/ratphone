@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Master Seal",
+        "nid": "MasterSeal",
         "name": "Master Seal",
-        "desc": "Promotes all normal classes",
+        "desc": "Promotes a tier one unit to tier two.",
         "icon_nid": "Boosters",
         "icon_index": [
             0,
@@ -37,27 +37,7 @@
             ],
             [
                 "value",
-                20000
-            ],
-            [
-                "prf_class",
-                [
-                    "Myrmidon",
-                    "Mercenary",
-                    "Thief",
-                    "Cavalier",
-                    "Pegasus_Knight",
-                    "Knight",
-                    "Fighter",
-                    "Pirate",
-                    "Archer",
-                    "Monk",
-                    "Cleric",
-                    "Mage",
-                    "Shaman",
-                    "Troubadour",
-                    "Wyvern Rider"
-                ]
+                2000
             ],
             [
                 "promote",

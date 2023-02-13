@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "KwameEngage",
+        "name": "Engage!",
+        "desc": "Engages the Operator's Emblem for 3 turns.",
+        "icon_nid": "kwame",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "ability",
+                "IronSword"
+            ]
+        ]
+    }
+]

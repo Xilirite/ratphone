@@ -1,0 +1,62 @@
+[
+    {
+        "nid": "CherniteSword",
+        "name": "Chernite Sword",
+        "desc": "A blade from another world. Operators take 10 damage after combat.",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            7
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                4000
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                17
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "crit",
+                10
+            ],
+            [
+                "weight",
+                13
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Sword"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ]
+        ]
+    }
+]

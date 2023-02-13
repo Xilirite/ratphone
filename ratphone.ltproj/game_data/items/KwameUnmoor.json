@@ -1,0 +1,58 @@
+[
+    {
+        "nid": "KwameUnmoor",
+        "name": "Unmoor",
+        "desc": "Can't double.",
+        "icon_nid": "{Zarg} Unmoor",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                3
+            ],
+            [
+                "damage",
+                0
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                0
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "eval_available",
+                "False"
+            ]
+        ]
+    }
+]

@@ -8,21 +8,21 @@
             [
                 "add_portrait",
                 [
-                    "Lute",
+                    "Horus",
                     "FarRight"
                 ]
             ],
             [
                 "speak",
                 [
-                    "Lute",
+                    "Horus",
                     "I...{br}I don't want to die..."
                 ]
             ],
             [
                 "expression",
                 [
-                    "Lute",
+                    "Horus",
                     "CloseEyes"
                 ]
             ],

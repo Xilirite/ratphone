@@ -75,7 +75,7 @@
         "wexp_gain": {
             "Sword": [
                 2,
-                40
+                4
             ],
             "Lance": [
                 false,
@@ -83,7 +83,7 @@
             ],
             "Axe": [
                 2,
-                31
+                2
             ],
             "Bow": [
                 false,

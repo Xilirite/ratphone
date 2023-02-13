@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "DecisiveBlowFatedInvis",
+        "name": "Decisive Blow",
+        "desc": "Active when Engaged. When initiating combat, add Mag to physical attacks.\n[Fated Bonus] If unit doubles, unit will also attack a third time.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "condition",
+                "unit.has_skill(unit, 'KwameEngaged') and and mode == 'attack'"
+            ],
+            [
+                "item_override",
+                "IronSword"
+            ]
+        ]
+    }
+]

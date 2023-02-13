@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "KwameEngaged",
+        "name": "Engaged",
+        "desc": "Operator is currently Engaged with Emblem Kwame.",
+        "icon_nid": "kwame",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "time",
+                3
+            ]
+        ]
+    }
+]

@@ -80,7 +80,7 @@
             ],
             "Lance": [
                 true,
-                30
+                4
             ],
             "Axe": [
                 false,
@@ -92,7 +92,7 @@
             ],
             "Staff": [
                 true,
-                31
+                2
             ],
             "Magic": [
                 false,

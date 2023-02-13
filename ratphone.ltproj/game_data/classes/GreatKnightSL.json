@@ -1,53 +1,53 @@
 [
     {
-        "nid": "DragonKnight",
-        "name": "Dragon Knight",
-        "desc": "",
-        "tier": 2,
-        "movement_group": "Fliers",
+        "nid": "GreatKnightSL",
+        "name": "Great Knight",
+        "desc": "Veteran horse knights.",
+        "tier": 1,
+        "movement_group": "Armors",
         "promotes_from": null,
         "turns_into": [],
         "tags": [
+            "Horse",
             "Mounted",
-            "Dragon",
-            "Flying"
+            "Armor"
         ],
         "max_level": 40,
         "bases": {
-            "HP": 25,
+            "HP": 26,
             "STR": 9,
-            "MAG": 1,
-            "SPD": 9,
+            "MAG": 2,
+            "SPD": 5,
             "LCK": 3,
-            "DEF": 6,
-            "RES": 5,
-            "CON": 6,
+            "DEF": 13,
+            "RES": 2,
+            "CON": 8,
             "MOV": 7,
             "DEX": 8
         },
         "growths": {
-            "HP": 115,
-            "STR": 75,
-            "MAG": 55,
-            "SPD": 65,
-            "LCK": 20,
-            "DEF": 75,
-            "RES": 50,
+            "HP": 100,
+            "STR": 65,
+            "MAG": 25,
+            "SPD": 50,
+            "LCK": 30,
+            "DEF": 90,
+            "RES": 55,
             "CON": 20,
             "MOV": 0,
             "DEX": 75
         },
         "growth_bonus": {
             "HP": 20,
-            "STR": 20,
+            "STR": 15,
             "MAG": 0,
-            "SPD": 5,
+            "SPD": 0,
             "LCK": 5,
-            "DEF": 20,
-            "RES": 5,
+            "DEF": 25,
+            "RES": 10,
             "CON": 5,
             "MOV": 0,
-            "DEX": 10
+            "DEX": 15
         },
         "promotion": {
             "HP": -99,
@@ -62,34 +62,29 @@
             "DEX": -99
         },
         "max_stats": {
-            "HP": 83,
-            "STR": 46,
-            "MAG": 31,
-            "SPD": 38,
-            "LCK": 25,
-            "DEF": 35,
+            "HP": 75,
+            "STR": 42,
+            "MAG": 19,
+            "SPD": 25,
+            "LCK": 30,
+            "DEF": 51,
             "RES": 22,
-            "CON": 18,
+            "CON": 20,
             "MOV": 20,
             "DEX": 43
         },
-        "learned_skills": [
-            [
-                1,
-                "Flying"
-            ]
-        ],
+        "learned_skills": [],
         "wexp_gain": {
             "Sword": [
-                false,
-                0
+                true,
+                3
             ],
             "Lance": [
-                false,
-                0
+                true,
+                3
             ],
             "Axe": [
-                0,
+                false,
                 0
             ],
             "Bow": [
@@ -129,13 +124,13 @@
                 0
             ]
         },
-        "icon_nid": "Generic_Portrait_Wyvern_Lord",
+        "icon_nid": "Generic_Portrait_Great_Knight",
         "icon_index": [
             0,
             0
         ],
-        "map_sprite_nid": "WyvernLord",
-        "combat_anim_nid": "Wyvern Lord",
+        "map_sprite_nid": "Great_Knight",
+        "combat_anim_nid": null,
         "fields": []
     }
 ]

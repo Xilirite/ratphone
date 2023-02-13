@@ -1,0 +1,82 @@
+[
+    {
+        "nid": "Armorslayer",
+        "name": "Armorslayer",
+        "desc": "Effective against Armor units and ignores Unbreakable when effective.",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            12
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                2500
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                9
+            ],
+            [
+                "hit",
+                75
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                13
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Sword"
+            ],
+            [
+                "weapon_rank",
+                "C"
+            ],
+            [
+                "effective_multiplier",
+                1
+            ],
+            [
+                "effective_tag",
+                [
+                    "Armor"
+                ]
+            ],
+            [
+                "effective_icon",
+                [
+                    "Armor"
+                ]
+            ],
+            [
+                "status_on_equip",
+                "Canto"
+            ]
+        ]
+    }
+]
