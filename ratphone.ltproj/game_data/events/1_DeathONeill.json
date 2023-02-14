@@ -2,7 +2,7 @@
     {
         "name": "DeathONeill",
         "trigger": "unit_death",
-        "level_nid": "0",
+        "level_nid": "1",
         "condition": "unit.nid == \"O'Neill\"",
         "commands": [
             [

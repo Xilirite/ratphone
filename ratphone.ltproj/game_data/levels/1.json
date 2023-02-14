@@ -1,10 +1,10 @@
 [
     {
         "nid": "1",
-        "name": "Ch. 1: Escape!",
-        "tilemap": "Chapter 1",
+        "name": "Chapter 1",
+        "tilemap": "Prologue",
         "bg_tilemap": null,
-        "party": "Eirika",
+        "party": "RhodysGroup",
         "music": {
             "player_phase": "Distant Roads",
             "enemy_phase": "Shadow of the Enemy",
@@ -16,13 +16,13 @@
             "enemy2_battle": null
         },
         "objective": {
-            "simple": "Seize Gate",
-            "win": "Seize Boss",
+            "simple": "Defeat boss",
+            "win": "Defeat boss",
             "loss": "Eirika dies"
         },
         "roam": false,
-        "roam_unit": null,
-        "go_to_overworld": true,
+        "roam_unit": "Eirika",
+        "go_to_overworld": false,
         "units": [
             {
                 "nid": "Rhodys",
@@ -31,8 +31,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    12,
-                    9
+                    4,
+                    5
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -44,8 +44,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    13,
-                    8
+                    4,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -53,103 +53,7 @@
             {
                 "nid": "101",
                 "variant": null,
-                "level": 2,
-                "klass": "LanceFighter",
-                "faction": "Kingdom",
-                "starting_items": [
-                    [
-                        "Iron Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    1,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "102",
-                "variant": null,
-                "level": 2,
-                "klass": "LanceFighter",
-                "faction": "Kingdom",
-                "starting_items": [
-                    [
-                        "Iron Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    3,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "103",
-                "variant": null,
-                "level": 2,
-                "klass": "AxeFighter",
-                "faction": "Kingdom",
-                "starting_items": [
-                    [
-                        "Iron Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Defend",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    2,
-                    8
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "104",
-                "variant": null,
-                "level": 2,
-                "klass": "AxeFighter",
-                "faction": "Kingdom",
-                "starting_items": [
-                    [
-                        "Iron Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": [
-                    4,
-                    7
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "105",
-                "variant": null,
-                "level": 2,
+                "level": 1,
                 "klass": "AxeFighter",
                 "faction": "Kingdom",
                 "starting_items": [
@@ -165,278 +69,54 @@
                 "ai_group": null,
                 "starting_position": [
                     9,
-                    5
+                    6
                 ],
                 "starting_traveler": null,
                 "generic": true
             },
             {
-                "nid": "106",
+                "nid": "102",
                 "variant": null,
-                "level": 3,
-                "klass": "LanceFighter",
+                "level": 2,
+                "klass": "AxeFighter",
                 "faction": "Kingdom",
                 "starting_items": [
                     [
-                        "Iron Lance",
+                        "Iron Axe",
                         false
                     ]
                 ],
                 "starting_skills": [],
                 "team": "enemy",
-                "ai": "Guard",
+                "ai": "Attack",
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
                     8,
-                    3
-                ],
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "107",
-                "variant": null,
-                "level": 2,
-                "klass": "LanceFighter",
-                "faction": "Kingdom",
-                "starting_items": [
-                    [
-                        "Iron Lance",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Pursue",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "108",
-                "variant": null,
-                "level": 1,
-                "klass": "AxeFighter",
-                "faction": "Kingdom",
-                "starting_items": [
-                    [
-                        "Iron Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "109",
-                "variant": null,
-                "level": 1,
-                "klass": "AxeFighter",
-                "faction": "Kingdom",
-                "starting_items": [
-                    [
-                        "Iron Axe",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "enemy",
-                "ai": "Attack",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "GreenCav",
-                "variant": null,
-                "level": 1,
-                "klass": "SwordKnight",
-                "faction": "Kingdom",
-                "starting_items": [],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
-            },
-            {
-                "nid": "GreenMerc",
-                "variant": null,
-                "level": 1,
-                "klass": "SwordFighter",
-                "faction": "Kingdom",
-                "starting_items": [
-                    [
-                        "Iron Sword",
-                        false
-                    ]
-                ],
-                "starting_skills": [],
-                "team": "other",
-                "ai": "None",
-                "roam_ai": null,
-                "ai_group": null,
-                "starting_position": null,
-                "starting_traveler": null,
-                "generic": true
-            }
-        ],
-        "regions": [
-            {
-                "nid": "House1",
-                "region_type": "event",
-                "position": [
-                    13,
                     6
                 ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Visit",
-                "condition": "True",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "House2",
-                "region_type": "event",
-                "position": [
-                    10,
-                    4
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Visit",
-                "condition": "True",
-                "time_left": null,
-                "only_once": true,
-                "interrupt_move": false
-            },
-            {
-                "nid": "Gate",
-                "region_type": "event",
-                "position": [
-                    2,
-                    2
-                ],
-                "size": [
-                    1,
-                    1
-                ],
-                "sub_nid": "Seize",
-                "condition": "unit.nid == 'Eirika'",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
-            },
-            {
-                "nid": "EnemyRein",
-                "region_type": "normal",
-                "position": [
-                    0,
-                    0
-                ],
-                "size": [
-                    8,
-                    10
-                ],
-                "sub_nid": "",
-                "condition": "True",
-                "time_left": null,
-                "only_once": false,
-                "interrupt_move": false
+                "starting_traveler": null,
+                "generic": true
             }
         ],
+        "regions": [],
         "unit_groups": [
             {
                 "nid": "Enemy1",
                 "units": [
                     "101",
-                    "102",
-                    "103",
-                    "104",
-                    "105",
-                    "106"
+                    "102"
                 ],
                 "positions": {
                     "101": [
-                        1,
-                        6
-                    ],
-                    "102": [
-                        3,
-                        6
-                    ],
-                    "106": [
-                        2,
+                        14,
                         7
                     ],
-                    "105": [
-                        2,
-                        9
-                    ],
-                    "104": [
-                        3,
-                        8
-                    ],
-                    "103": [
-                        1,
+                    "102": [
+                        14,
                         8
                     ]
                 }
-            },
-            {
-                "nid": "Rein",
-                "units": [],
-                "positions": {}
-            },
-            {
-                "nid": "EnemyRein",
-                "units": [
-                    "107",
-                    "108",
-                    "109"
-                ],
-                "positions": {
-                    "107": [
-                        13,
-                        9
-                    ],
-                    "108": [
-                        13,
-                        8
-                    ],
-                    "109": [
-                        12,
-                        9
-                    ]
-                }
-            },
-            {
-                "nid": "EirikaSeth",
-                "units": [
-                    "Rhodys",
-                    "Akatos"
-                ],
-                "positions": {}
             }
         ]
     }

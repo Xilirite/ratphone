@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Hit10",
+        "name": "Hit +10",
+        "desc": "Grants Hit +10 in combat.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hit",
+                10
+            ]
+        ]
+    }
+]

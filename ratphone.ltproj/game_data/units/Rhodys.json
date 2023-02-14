@@ -37,9 +37,26 @@
             [
                 "SecondSeal",
                 false
+            ],
+            [
+                "IronSword",
+                false
+            ],
+            [
+                "Kaiserschwert",
+                false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "KwameEngaged"
+            ],
+            [
+                1,
+                "DecisiveBlowFatedInvis"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [

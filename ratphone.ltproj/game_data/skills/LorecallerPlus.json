@@ -1,0 +1,13 @@
+[
+    {
+        "nid": "LorecallerPlus",
+        "name": "Lorecaller+",
+        "desc": "When a boss dies, additional info about them will be added to the codex.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": []
+    }
+]

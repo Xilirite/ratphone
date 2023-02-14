@@ -2,7 +2,7 @@
     {
         "name": "EnemyTurn2",
         "trigger": "enemy_turn_change",
-        "level_nid": "0",
+        "level_nid": "1",
         "condition": "game.turncount == 2",
         "commands": [
             [

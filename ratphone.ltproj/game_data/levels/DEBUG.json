@@ -4,7 +4,7 @@
         "name": "DEBUG",
         "tilemap": "Chapter 2",
         "bg_tilemap": null,
-        "party": "Eirika",
+        "party": "RhodysGroup",
         "music": {
             "player_phase": "Shadow of the Enemy",
             "enemy_phase": null,
@@ -45,11 +45,11 @@
                 "faction": "Kingdom",
                 "starting_items": [
                     [
-                        "Iron Lance",
+                        "TestLance",
                         false
                     ],
                     [
-                        "Slim Lance",
+                        "IronSword",
                         false
                     ],
                     [
@@ -146,7 +146,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "PerfectAccuracy"
+                ],
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -170,7 +172,9 @@
                         false
                     ]
                 ],
-                "starting_skills": [],
+                "starting_skills": [
+                    "PerfectAccuracyPlus"
+                ],
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -202,6 +206,25 @@
                 "starting_position": [
                     4,
                     5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "107",
+                "variant": null,
+                "level": 1,
+                "klass": "AxeFighter",
+                "faction": "Kingdom",
+                "starting_items": [],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    5,
+                    8
                 ],
                 "starting_traveler": null,
                 "generic": true

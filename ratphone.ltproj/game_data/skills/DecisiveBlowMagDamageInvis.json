@@ -1,8 +1,8 @@
 [
     {
-        "nid": "DecisiveBlowMysticalInvis",
+        "nid": "DecisiveBlowMagDamageInvis",
         "name": "Decisive Blow",
-        "desc": "Active when Engaged. When initiating combat, add Mag to physical attacks.\n[Mystical Bonus] Also add Str to magical attacks.",
+        "desc": "Active when Engaged. When initiating combat, add Mag to physical attacks.\n",
         "icon_nid": "Skills",
         "icon_index": [
             0,
@@ -10,12 +10,12 @@
         ],
         "components": [
             [
-                "eval_damage",
-                "unit.get_stat('STR')"
-            ],
-            [
                 "hidden",
                 null
+            ],
+            [
+                "eval_damage",
+                "unit.get_stat('MAG')"
             ],
             [
                 "combat_condition",

@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Fated",
+        "name": "Fated",
+        "desc": "Unit gains unique benefits while acting as an Operator, and causes a Game Over on death.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

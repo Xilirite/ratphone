@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "NoWexp",
+        "name": "NoWexp",
+        "desc": "override to turn off wexp gain",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "wexp",
+                0
+            ]
+        ]
+    }
+]

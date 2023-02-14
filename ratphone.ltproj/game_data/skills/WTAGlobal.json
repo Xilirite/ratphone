@@ -11,7 +11,7 @@
         "components": [
             [
                 "combat_condition",
-                "(combat_calcs.compute_advantage(unit, target, unit.get_weapon(), target.get_weapon(), True).modification > 0) and "
+                "(combat_calcs.compute_advantage(unit, target, unit.get_weapon(), target.get_weapon(), True).modification > 0) and mode == 'attack'"
             ],
             [
                 "hit",

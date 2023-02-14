@@ -2,7 +2,7 @@
     {
         "name": "FightONeill",
         "trigger": "combat_start",
-        "level_nid": "0",
+        "level_nid": "1",
         "condition": "unit.nid == \"O'Neill\" or unit2.nid == \"O'Neill\"",
         "commands": [
             [

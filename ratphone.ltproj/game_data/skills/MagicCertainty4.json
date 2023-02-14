@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "MagicCertainty4",
+        "name": "Magic Certainty IV",
+        "desc": "Grants Hit +25 at a cost of Crit -10 when using magic.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "hit",
+                25
+            ],
+            [
+                "crit",
+                -10
+            ],
+            [
+                "condition",
+                "item_system.weapon_type(unit, unit.get_weapon()) == \"Magic\""
+            ]
+        ]
+    }
+]

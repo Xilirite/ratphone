@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Avoid5",
-        "name": "Avoid5",
-        "desc": "",
+        "nid": "Covert",
+        "name": "Covert",
+        "desc": "Grants Avo+15 while affected by terrain.",
         "icon_nid": "Skills",
         "icon_index": [
             0,
@@ -10,16 +10,12 @@
         ],
         "components": [
             [
-                "hidden",
-                null
+                "condition",
+                "False"
             ],
             [
                 "avoid",
-                5
-            ],
-            [
-                "is_terrain",
-                null
+                15
             ]
         ]
     }

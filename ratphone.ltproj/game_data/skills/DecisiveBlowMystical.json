@@ -11,11 +11,7 @@
         "components": [
             [
                 "condition",
-                "unit.has_skill(unit, 'KwameEngaged') and and mode == 'attack'"
-            ],
-            [
-                "eval_damage",
-                "unit.get_stat('MAG')"
+                "has_skill(unit, 'KwameEngaged')"
             ],
             [
                 "grey_if_inactive",

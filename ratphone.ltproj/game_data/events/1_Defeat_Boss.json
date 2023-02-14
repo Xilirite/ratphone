@@ -2,7 +2,7 @@
     {
         "name": "Defeat Boss",
         "trigger": "combat_end",
-        "level_nid": "0",
+        "level_nid": "1",
         "condition": "game.check_dead(\"O'Neill\")",
         "commands": [
             [

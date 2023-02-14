@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "PerfectAccuracy",
+        "name": "Perfect Accuracy",
+        "desc": "Unit gains crit equal to half their excess hit chance above 100%.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            9,
+            6
+        ],
+        "components": [
+            [
+                "dynamic_crit_accuracy",
+                "((combat_calcs.accuracy(unit) - (100 + combat_calcs.avoid(target, target.get_weapon(), unit.get_weapon())))/2)"
+            ]
+        ]
+    }
+]

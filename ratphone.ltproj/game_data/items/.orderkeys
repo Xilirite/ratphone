@@ -60,5 +60,9 @@
     "Refresh.json": 58,
     "Summon.json": 59,
     "Summon_Soldier.json": 60,
-    "CantCounter.json": 61
+    "CantCounter.json": 61,
+    "NoWexp.json": 62,
+    "DecisiveBlowFated.json": 63,
+    "DecisiveBlowFated2.json": 64,
+    "Ragnarok.json": 65
 }

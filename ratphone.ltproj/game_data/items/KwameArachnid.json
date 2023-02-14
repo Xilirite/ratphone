@@ -52,6 +52,10 @@
             [
                 "eval_available",
                 "False"
+            ],
+            [
+                "weapon_type",
+                "Magic"
             ]
         ]
     }

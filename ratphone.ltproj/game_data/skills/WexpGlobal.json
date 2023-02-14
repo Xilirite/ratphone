@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "WexpGlobal",
+        "name": "WexpGlobal",
+        "desc": "global skill to disable weapon exp gain",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "global",
+                null
+            ],
+            [
+                "hidden",
+                null
+            ],
+            [
+                "item_override",
+                "NoWexp"
+            ]
+        ]
+    }
+]

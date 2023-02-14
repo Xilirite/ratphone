@@ -1,8 +1,8 @@
 [
     {
-        "nid": "Canto",
-        "name": "Canto",
-        "desc": "Can move again after certain actions.",
+        "nid": "Cavalry",
+        "name": "Cavalry",
+        "desc": "Unit has increased movement and can move again after most non-combat actions.",
         "icon_nid": "Skills",
         "icon_index": [
             1,
