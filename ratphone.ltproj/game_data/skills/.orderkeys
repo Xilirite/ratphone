@@ -83,5 +83,11 @@
     "LorecallerPlus.json": 81,
     "MagicCertainty4.json": 82,
     "PerfectAccuracyPlus.json": 83,
-    "Hit25.json": 84
+    "Hit25.json": 84,
+    "RagnarokBuff.json": 85,
+    "RagnarokBuffCavalry.json": 86,
+    "RagnarokBuffDivine.json": 87,
+    "RagnarokBuffFlying.json": 88,
+    "RagnarokBuffCovert.json": 89,
+    "RagnarokBuffFated.json": 90
 }

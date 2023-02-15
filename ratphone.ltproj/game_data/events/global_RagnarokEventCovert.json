@@ -1,0 +1,21 @@
+[
+    {
+        "name": "RagnarokEventCovert",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [
+            [
+                "interact_unit",
+                [
+                    "{unit}",
+                    "{unit}",
+                    "",
+                    "Ragnarok (RagnarokBuffCovert)"
+                ]
+            ]
+        ],
+        "only_once": false,
+        "priority": 20
+    }
+]

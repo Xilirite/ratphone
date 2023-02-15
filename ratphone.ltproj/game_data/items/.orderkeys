@@ -64,5 +64,12 @@
     "NoWexp.json": 62,
     "DecisiveBlowFated.json": 63,
     "DecisiveBlowFated2.json": 64,
-    "Ragnarok.json": 65
+    "Ragnarok.json": 65,
+    "RagnarokMystical.json": 66,
+    "RagnarokBuff.json": 67,
+    "RagnarokBuffCavalry.json": 68,
+    "RagnarokBuffDivine.json": 69,
+    "RagnarokBuffFlying.json": 70,
+    "RagnarokBuffCovert.json": 71,
+    "RagnarokBuffFated.json": 72
 }

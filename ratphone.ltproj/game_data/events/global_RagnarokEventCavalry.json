@@ -1,0 +1,21 @@
+[
+    {
+        "name": "RagnarokEventCavalry",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [
+            [
+                "interact_unit",
+                [
+                    "{unit}",
+                    "{unit}",
+                    "",
+                    "Ragnarok (RagnarokBuffCavalry)"
+                ]
+            ]
+        ],
+        "only_once": false,
+        "priority": 20
+    }
+]

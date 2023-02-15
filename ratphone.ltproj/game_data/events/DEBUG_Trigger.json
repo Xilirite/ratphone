@@ -24,6 +24,12 @@
                 [
                     "Eirika"
                 ]
+            ],
+            [
+                "comment",
+                [
+                    "gi"
+                ]
             ]
         ],
         "only_once": false,
