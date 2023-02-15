@@ -15,7 +15,15 @@
             ],
             [
                 "condition",
-                "False"
+                "has_skill(unit, 'KwameEngaged')"
+            ],
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "ability",
+                "RagnarokDivine"
             ]
         ]
     }

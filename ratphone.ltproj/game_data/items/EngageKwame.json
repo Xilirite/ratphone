@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "EngageKwame",
+        "name": "Engage",
+        "desc": "Engages the currently equipped Emblem. [Kwame]",
+        "icon_nid": "kwame",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "usable",
+                null
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "self_status_on_hit",
+                "KwameEngaged"
+            ]
+        ]
+    }
+]

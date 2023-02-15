@@ -1,0 +1,13 @@
+[
+    {
+        "nid": "SilverIngot",
+        "name": "Silver Ingot",
+        "desc": "An uncommon material used for forging weapons.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": []
+    }
+]

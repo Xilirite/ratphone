@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "IronZweihander3",
+        "name": "Iron Zweihander +3",
+        "desc": "Always attacks last. Cannot double or counter. Break regardless of enemy weapon on hit.",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "IronZweihander"
+            ],
+            [
+                "value",
+                3000
+            ],
+            [
+                "damage",
+                15
+            ],
+            [
+                "hit",
+                105
+            ],
+            [
+                "weight",
+                5
+            ]
+        ]
+    }
+]

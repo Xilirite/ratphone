@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "LevinSword_1",
+        "name": "Levin Sword",
+        "desc": "Deals magical damage.",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            14
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "LevinSword"
+            ],
+            [
+                "value",
+                4000
+            ],
+            [
+                "damage",
+                14
+            ],
+            [
+                "hit",
+                90
+            ]
+        ]
+    }
+]

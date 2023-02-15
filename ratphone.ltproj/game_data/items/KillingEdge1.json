@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "KillingEdge1",
+        "name": "Killing Edge +1",
+        "desc": "",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            11
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "KillingEdge"
+            ],
+            [
+                "value",
+                3500
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "crit",
+                35
+            ]
+        ]
+    }
+]

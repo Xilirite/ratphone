@@ -50,11 +50,31 @@
         "learned_skills": [
             [
                 1,
-                "KwameEngaged"
+                "EmblemKwame"
+            ],
+            [
+                1,
+                "KwameEngage"
+            ],
+            [
+                1,
+                "AncientKnowledgeFated"
+            ],
+            [
+                1,
+                "DecisiveBlowFated"
             ],
             [
                 1,
                 "DecisiveBlowFatedInvis"
+            ],
+            [
+                1,
+                "DecisiveBlowMagDamageInvis"
+            ],
+            [
+                1,
+                "RagnarokFated"
             ]
         ],
         "unit_notes": [],

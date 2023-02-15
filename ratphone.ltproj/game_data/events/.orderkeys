@@ -112,5 +112,6 @@
     "global_RagnarokEventDivine.json": 110,
     "global_RagnarokEventFlying.json": 111,
     "global_RagnarokEventCovert.json": 112,
-    "global_RagnarokEventFated.json": 113
+    "global_RagnarokEventFated.json": 113,
+    "global_KwameEngageEnd.json": 114
 }

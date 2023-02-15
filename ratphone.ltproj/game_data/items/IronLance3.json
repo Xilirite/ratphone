@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "IronLance3",
+        "name": "Iron Lance +3",
+        "desc": "Technically, it's a spear.",
+        "icon_nid": "Lance",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "IronLance"
+            ],
+            [
+                "value",
+                3000
+            ],
+            [
+                "damage",
+                14
+            ],
+            [
+                "hit",
+                110
+            ]
+        ]
+    }
+]

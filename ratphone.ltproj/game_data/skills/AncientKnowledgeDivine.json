@@ -36,6 +36,10 @@
             [
                 "condition",
                 "False"
+            ],
+            [
+                "class_skill",
+                null
             ]
         ]
     }

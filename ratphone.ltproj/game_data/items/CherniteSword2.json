@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "CherniteSword2",
+        "name": "Chernite Sword +2",
+        "desc": "",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            7
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "CherniteSword"
+            ],
+            [
+                "value",
+                9000
+            ],
+            [
+                "damage",
+                22
+            ],
+            [
+                "weight",
+                11
+            ]
+        ]
+    }
+]

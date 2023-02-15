@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "IronSword1",
+        "name": "Iron Sword +1",
+        "desc": "",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "IronSword"
+            ],
+            [
+                "value",
+                1400
+            ],
+            [
+                "damage",
+                7
+            ],
+            [
+                "hit",
+                95
+            ]
+        ]
+    }
+]

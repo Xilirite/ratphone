@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Javelin1",
+        "name": "Javelin +1",
+        "desc": "Stand on a forest and hit End Turn.",
+        "icon_nid": "Lance",
+        "icon_index": [
+            0,
+            8
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "Javelin"
+            ],
+            [
+                "value",
+                2600
+            ],
+            [
+                "damage",
+                8
+            ],
+            [
+                "hit",
+                95
+            ]
+        ]
+    }
+]

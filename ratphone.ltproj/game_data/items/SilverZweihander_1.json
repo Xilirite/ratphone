@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "SilverZweihander_1",
+        "name": "Silver Zweihander",
+        "desc": "Always attacks last. Cannot double or counter. Break regardless of enemy weapon on hit.",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            6
+        ],
+        "components": [
+            [
+                "value",
+                7500
+            ],
+            [
+                "damage",
+                26
+            ],
+            [
+                "hit",
+                115
+            ],
+            [
+                "item_prefab",
+                "SilverZweihander"
+            ]
+        ]
+    }
+]

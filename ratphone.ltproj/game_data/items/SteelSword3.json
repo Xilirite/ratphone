@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "SteelSword3",
+        "name": "Steel Sword +3",
+        "desc": "",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "SteelSword"
+            ],
+            [
+                "value",
+                5000
+            ],
+            [
+                "damage",
+                15
+            ],
+            [
+                "hit",
+                95
+            ],
+            [
+                "weight",
+                6
+            ]
+        ]
+    }
+]

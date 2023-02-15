@@ -15,7 +15,11 @@
             ],
             [
                 "ability",
-                "IronSword"
+                "EngageKwame"
+            ],
+            [
+                "condition",
+                "not has_skill(unit, 'KwameEngaged')"
             ]
         ]
     }

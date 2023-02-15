@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Armorslayer2",
+        "name": "Armorslayer +2",
+        "desc": "",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            12
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "Armorslayer"
+            ],
+            [
+                "value",
+                5000
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "weight",
+                11
+            ]
+        ]
+    }
+]

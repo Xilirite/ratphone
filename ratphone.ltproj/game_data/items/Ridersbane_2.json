@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Ridersbane_2",
+        "name": "Ridersbane",
+        "desc": "Effective against Cavalry units.",
+        "icon_nid": "Lance",
+        "icon_index": [
+            0,
+            7
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "Ridersbane"
+            ],
+            [
+                "value",
+                5000
+            ],
+            [
+                "damage",
+                12
+            ],
+            [
+                "hit",
+                90
+            ]
+        ]
+    }
+]

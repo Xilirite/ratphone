@@ -3,10 +3,10 @@
         "nid": "IronZweihander",
         "name": "Iron Zweihander",
         "desc": "Always attacks last. Cannot double or counter. Break regardless of enemy weapon on hit.",
-        "icon_nid": "wexp_icons",
+        "icon_nid": "Sword",
         "icon_index": [
             0,
-            0
+            4
         ],
         "components": [
             [
@@ -58,16 +58,16 @@
                 "C"
             ],
             [
+                "no_double",
+                null
+            ],
+            [
                 "status_on_equip",
                 "Fort"
             ],
             [
-                "cannot_counter",
-                null
-            ],
-            [
-                "no_double",
-                null
+                "status_on_hit",
+                "Broken"
             ]
         ]
     }

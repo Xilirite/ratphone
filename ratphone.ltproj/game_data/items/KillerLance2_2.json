@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "KillerLance2_2",
+        "name": "Killer Lance +2",
+        "desc": "",
+        "icon_nid": "Lance",
+        "icon_index": [
+            0,
+            6
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "KillerLance"
+            ],
+            [
+                "value",
+                5000
+            ],
+            [
+                "damage",
+                11
+            ],
+            [
+                "crit",
+                45
+            ],
+            [
+                "hit",
+                95
+            ],
+            [
+                "weight",
+                7
+            ]
+        ]
+    }
+]

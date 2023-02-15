@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "SilverLance2",
+        "name": "Silver Lance+2",
+        "desc": "You have a Silver Lance! It came free with your hecking Jagen!",
+        "icon_nid": "Lance",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "SilverLance"
+            ],
+            [
+                "value",
+                6000
+            ],
+            [
+                "damage",
+                19
+            ],
+            [
+                "hit",
+                100
+            ],
+            [
+                "weight",
+                11
+            ]
+        ]
+    }
+]

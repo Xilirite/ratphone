@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "SteelZweihander1",
+        "name": "Steel Zweihander +1",
+        "desc": "Always attacks last. Cannot double or counter. Break regardless of enemy weapon on hit.",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            5
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "SteelZweihander"
+            ],
+            [
+                "value",
+                4000
+            ],
+            [
+                "damage",
+                20
+            ],
+            [
+                "hit",
+                105
+            ]
+        ]
+    }
+]

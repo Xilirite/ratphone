@@ -29,7 +29,12 @@
     },
     {
         "nid": "Lance",
-        "subicon_dict": {}
+        "subicon_dict": {
+            "Lance 0, 6": [
+                0,
+                6
+            ]
+        }
     },
     {
         "nid": "Light",

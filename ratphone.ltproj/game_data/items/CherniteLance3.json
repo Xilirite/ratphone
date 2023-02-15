@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "CherniteLance3",
+        "name": "Chernite Pike +3",
+        "desc": "A polearm from another world. Operators take 10 damage after combat.",
+        "icon_nid": "Lance",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "CherniteLance"
+            ],
+            [
+                "value",
+                13000
+            ],
+            [
+                "damage",
+                27
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "weight",
+                12
+            ]
+        ]
+    }
+]

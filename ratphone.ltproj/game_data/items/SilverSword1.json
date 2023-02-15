@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "SilverSword1",
+        "name": "Silver Sword+1",
+        "desc": "",
+        "icon_nid": "Sword",
+        "icon_index": [
+            0,
+            3
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "SilverSword"
+            ],
+            [
+                "value",
+                4000
+            ],
+            [
+                "damage",
+                15
+            ],
+            [
+                "hit",
+                90
+            ]
+        ]
+    }
+]
