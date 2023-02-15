@@ -2,7 +2,7 @@
     {
         "nid": "RagnarokCovert",
         "name": "Ragnarok",
-        "desc": "Kwame unleashes an apocalyptic spell, heavily damaging all foes within 3 spaces. After casting, all allies gain +100 hit, +100 dodge, can move through enemies, and will strike first when attacked. Effects last 1 turn.\n[Covert Bonus] Operator becomes untargetable for 1 turn.",
+        "desc": "Kwame unleashes an apocalyptic spell, heavily damaging all foes within 3 spaces. After casting, all allies gain +100 hit, +100 dodge, can move through enemies, and will strike first when attacked. Effects last 1 turn.\n[Covert Bonus] Grants Avoid +50 to Operator for 1 turn.",
         "icon_nid": "Skills",
         "icon_index": [
             0,

@@ -1,0 +1,21 @@
+[
+    {
+        "name": "RagnarokEventDivine",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [
+            [
+                "interact_unit",
+                [
+                    "{unit}",
+                    "{unit}",
+                    "",
+                    "Ragnarok (RagnarokBuffDivine)"
+                ]
+            ]
+        ],
+        "only_once": false,
+        "priority": 20
+    }
+]

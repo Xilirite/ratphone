@@ -121,4 +121,10 @@
     "DecisiveBlowFated.json": 119,
     "DecisiveBlowFated2.json": 120,
     "Ragnarok.json": 121
-}
+    "RagnarokMystical.json": 66,
+    "RagnarokBuff.json": 67,
+    "RagnarokBuffCavalry.json": 68,
+    "RagnarokBuffDivine.json": 69,
+    "RagnarokBuffFlying.json": 70,
+    "RagnarokBuffCovert.json": 71,
+    "RagnarokBuffFated.json": 72
