@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "CompactAxe",
+        "name": "Compact Axe",
+        "desc": "Most accurate axe in the game.",
+        "icon_nid": "Axe",
         "icon_index": [
             0,
-            11
+            13
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                500
             ],
             [
                 "target_enemy",
@@ -31,19 +31,19 @@
             ],
             [
                 "damage",
-                9
+                6
             ],
             [
                 "hit",
-                75
+                90
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                6
             ],
             [
                 "level_exp",
@@ -51,15 +51,11 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Axe"
             ],
             [
                 "weapon_rank",
-                "C"
-            ],
-            [
-                "status_on_equip",
-                "Canto"
+                "D"
             ]
         ]
     }

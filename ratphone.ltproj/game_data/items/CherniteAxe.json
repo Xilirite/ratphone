@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "CherniteAxe",
+        "name": "Chernilabrys",
+        "desc": "An axe from another world. Operators take 10 damage after combat.",
+        "icon_nid": "Axe",
         "icon_index": [
             0,
-            11
+            3
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                4000
             ],
             [
                 "target_enemy",
@@ -31,7 +31,7 @@
             ],
             [
                 "damage",
-                9
+                20
             ],
             [
                 "hit",
@@ -39,11 +39,11 @@
             ],
             [
                 "crit",
-                30
+                14
             ],
             [
                 "weight",
-                10
+                18
             ],
             [
                 "level_exp",
@@ -51,15 +51,15 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Axe"
             ],
             [
                 "weapon_rank",
-                "C"
+                "A"
             ],
             [
                 "status_on_equip",
-                "Canto"
+                "Fort"
             ]
         ]
     }

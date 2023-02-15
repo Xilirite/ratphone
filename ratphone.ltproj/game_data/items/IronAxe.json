@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "IronAxe",
+        "name": "Iron Axe",
+        "desc": "Incredible - for chopping wood, at least.",
+        "icon_nid": "Axe",
         "icon_index": [
             0,
-            11
+            0
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                1000
             ],
             [
                 "target_enemy",
@@ -35,15 +35,15 @@
             ],
             [
                 "hit",
-                75
+                80
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                7
             ],
             [
                 "level_exp",
@@ -51,15 +51,11 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Axe"
             ],
             [
                 "weapon_rank",
-                "C"
-            ],
-            [
-                "status_on_equip",
-                "Canto"
+                "D"
             ]
         ]
     }

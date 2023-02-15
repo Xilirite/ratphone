@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
+        "nid": "KillerBow",
+        "name": "Killer Bow",
         "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "icon_nid": "Bow",
         "icon_index": [
             0,
-            11
+            4
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                3000
             ],
             [
                 "target_enemy",
@@ -23,15 +23,15 @@
             ],
             [
                 "min_range",
-                1
+                2
             ],
             [
                 "max_range",
-                1
+                2
             ],
             [
                 "damage",
-                9
+                7
             ],
             [
                 "hit",
@@ -43,7 +43,7 @@
             ],
             [
                 "weight",
-                10
+                7
             ],
             [
                 "level_exp",
@@ -51,15 +51,31 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Bow"
             ],
             [
                 "weapon_rank",
                 "C"
             ],
             [
+                "effective_icon",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_multiplier",
+                1
+            ],
+            [
+                "effective_tag",
+                [
+                    "Flying"
+                ]
+            ],
+            [
                 "status_on_equip",
-                "Canto"
+                "Fort"
             ]
         ]
     }

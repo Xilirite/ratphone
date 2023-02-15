@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "SilverAxe",
+        "name": "Silver Axe",
+        "desc": "Is this really made of solid silver?",
+        "icon_nid": "Axe",
         "icon_index": [
             0,
-            11
+            2
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                3000
             ],
             [
                 "target_enemy",
@@ -31,19 +31,19 @@
             ],
             [
                 "damage",
-                9
+                16
             ],
             [
                 "hit",
-                75
+                70
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                15
             ],
             [
                 "level_exp",
@@ -51,15 +51,11 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Axe"
             ],
             [
                 "weapon_rank",
-                "C"
-            ],
-            [
-                "status_on_equip",
-                "Canto"
+                "B"
             ]
         ]
     }

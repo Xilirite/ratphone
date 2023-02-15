@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "IronZweihander",
+        "name": "Iron Zweihander",
+        "desc": "Always attacks last. Cannot double or counter. Break regardless of enemy weapon on hit.",
+        "icon_nid": "wexp_icons",
         "icon_index": [
             0,
-            11
+            0
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                1500
             ],
             [
                 "target_enemy",
@@ -31,19 +31,19 @@
             ],
             [
                 "damage",
-                9
+                10
             ],
             [
                 "hit",
-                75
+                90
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                7
             ],
             [
                 "level_exp",
@@ -59,7 +59,15 @@
             ],
             [
                 "status_on_equip",
-                "Canto"
+                "Fort"
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "no_double",
+                null
             ]
         ]
     }

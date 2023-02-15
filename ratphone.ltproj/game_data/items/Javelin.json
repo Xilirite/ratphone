@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "Javelin",
+        "name": "Javelin",
+        "desc": "Stand on a forest and hit End Turn.",
+        "icon_nid": "Lance",
         "icon_index": [
             0,
-            11
+            8
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                1800
             ],
             [
                 "target_enemy",
@@ -27,23 +27,23 @@
             ],
             [
                 "max_range",
-                1
+                2
             ],
             [
                 "damage",
-                9
+                7
             ],
             [
                 "hit",
-                75
+                90
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                8
             ],
             [
                 "level_exp",
@@ -51,15 +51,11 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Lance"
             ],
             [
                 "weapon_rank",
-                "C"
-            ],
-            [
-                "status_on_equip",
-                "Canto"
+                "D"
             ]
         ]
     }

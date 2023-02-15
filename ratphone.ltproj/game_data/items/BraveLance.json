@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "BraveLance",
+        "name": "Brave Lance",
+        "desc": "Attacks twice when initiating combat.",
+        "icon_nid": "Lance",
         "icon_index": [
             0,
-            11
+            5
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                8000
             ],
             [
                 "target_enemy",
@@ -31,19 +31,19 @@
             ],
             [
                 "damage",
-                9
+                6
             ],
             [
                 "hit",
-                75
+                85
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                13
             ],
             [
                 "level_exp",
@@ -51,15 +51,11 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Lance"
             ],
             [
                 "weapon_rank",
-                "C"
-            ],
-            [
-                "status_on_equip",
-                "Canto"
+                "A"
             ]
         ]
     }

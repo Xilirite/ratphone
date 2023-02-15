@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "SilverBow",
+        "name": "Silver Bow",
+        "desc": "The gleam of the silver moon.",
+        "icon_nid": "Bow",
         "icon_index": [
             0,
-            11
+            2
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                3000
             ],
             [
                 "target_enemy",
@@ -23,23 +23,23 @@
             ],
             [
                 "min_range",
-                1
+                2
             ],
             [
                 "max_range",
-                1
+                2
             ],
             [
                 "damage",
-                9
+                13
             ],
             [
                 "hit",
-                75
+                85
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
@@ -51,15 +51,27 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Bow"
             ],
             [
                 "weapon_rank",
-                "C"
+                "B"
             ],
             [
-                "status_on_equip",
-                "Canto"
+                "effective_icon",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_tag",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_multiplier",
+                1
             ]
         ]
     }

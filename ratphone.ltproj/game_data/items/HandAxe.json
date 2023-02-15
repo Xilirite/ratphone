@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "HandAxe",
+        "name": "HandAxe",
+        "desc": "Legally distinct from a \"Hurlbat\".",
+        "icon_nid": "Axe",
         "icon_index": [
             0,
-            11
+            9
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                1800
             ],
             [
                 "target_enemy",
@@ -27,23 +27,23 @@
             ],
             [
                 "max_range",
-                1
+                2
             ],
             [
                 "damage",
-                9
+                7
             ],
             [
                 "hit",
-                75
+                70
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                12
             ],
             [
                 "level_exp",
@@ -51,15 +51,11 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Axe"
             ],
             [
                 "weapon_rank",
-                "C"
-            ],
-            [
-                "status_on_equip",
-                "Canto"
+                "A"
             ]
         ]
     }

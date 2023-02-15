@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "Thunder",
+        "name": "Thunder",
+        "desc": "Big, hurty, 1-3 range lightning. Cannot double.",
+        "icon_nid": "Anima",
         "icon_index": [
             0,
-            11
+            1
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                1000
             ],
             [
                 "target_enemy",
@@ -27,19 +27,19 @@
             ],
             [
                 "max_range",
-                1
+                3
             ],
             [
                 "damage",
-                9
+                5
             ],
             [
                 "hit",
-                75
+                80
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
@@ -51,15 +51,19 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Magic"
             ],
             [
                 "weapon_rank",
-                "C"
+                "D"
             ],
             [
-                "status_on_equip",
-                "Canto"
+                "magic",
+                null
+            ],
+            [
+                "no_double",
+                null
             ]
         ]
     }

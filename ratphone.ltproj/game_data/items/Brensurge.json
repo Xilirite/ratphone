@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "Brensurge",
+        "name": "Brensurge",
+        "desc": "Always attacks last. Cannot double or counter. Break regardless of enemy weapon on hit.",
+        "icon_nid": "Anima",
         "icon_index": [
             0,
-            11
+            4
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                4000
             ],
             [
                 "target_enemy",
@@ -31,19 +31,19 @@
             ],
             [
                 "damage",
-                9
+                20
             ],
             [
                 "hit",
-                75
+                200
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                20
             ],
             [
                 "level_exp",
@@ -51,15 +51,27 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Magic"
             ],
             [
                 "weapon_rank",
-                "C"
+                "A"
             ],
             [
                 "status_on_equip",
-                "Canto"
+                "Fort"
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "no_double",
+                null
+            ],
+            [
+                "magic",
+                null
             ]
         ]
     }
