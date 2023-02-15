@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "RecurveBow",
+        "name": "Recurve Bow",
+        "desc": "Always attacks last. Cannot double or counter. Break regardless of enemy weapon on hit.",
+        "icon_nid": "wexp_icons",
         "icon_index": [
             0,
-            11
+            3
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                3000
             ],
             [
                 "target_enemy",
@@ -23,27 +23,27 @@
             ],
             [
                 "min_range",
-                1
+                2
             ],
             [
                 "max_range",
-                1
+                2
             ],
             [
                 "damage",
-                9
+                16
             ],
             [
                 "hit",
-                75
+                100
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                20
             ],
             [
                 "level_exp",
@@ -51,15 +51,23 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Bow"
             ],
             [
                 "weapon_rank",
-                "C"
+                "B"
             ],
             [
                 "status_on_equip",
-                "Canto"
+                "Fort"
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "no_double",
+                null
             ]
         ]
     }

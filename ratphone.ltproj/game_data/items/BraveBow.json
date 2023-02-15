@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "BraveBow",
+        "name": "Brave Bow",
+        "desc": "Attacks twice when initiating combat.",
+        "icon_nid": "Bow",
         "icon_index": [
             0,
-            11
+            5
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                8000
             ],
             [
                 "target_enemy",
@@ -23,15 +23,15 @@
             ],
             [
                 "min_range",
-                1
+                2
             ],
             [
                 "max_range",
-                1
+                2
             ],
             [
                 "damage",
-                9
+                4
             ],
             [
                 "hit",
@@ -39,11 +39,11 @@
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                11
             ],
             [
                 "level_exp",
@@ -51,15 +51,31 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Bow"
             ],
             [
                 "weapon_rank",
-                "C"
+                "A"
             ],
             [
-                "status_on_equip",
-                "Canto"
+                "brave_on_attack",
+                null
+            ],
+            [
+                "effective_icon",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_tag",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_multiplier",
+                1
             ]
         ]
     }

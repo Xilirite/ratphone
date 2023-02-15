@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "SteelVoulge",
+        "name": "Steel Voulge",
+        "desc": "Always attacks last. Cannot double or counter. Break regardless of enemy weapon on hit.",
+        "icon_nid": "wexp_icons",
         "icon_index": [
             0,
-            11
+            1
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                3000
             ],
             [
                 "target_enemy",
@@ -31,7 +31,7 @@
             ],
             [
                 "damage",
-                9
+                23
             ],
             [
                 "hit",
@@ -39,11 +39,11 @@
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                11
             ],
             [
                 "level_exp",
@@ -51,15 +51,23 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Lance"
             ],
             [
                 "weapon_rank",
-                "C"
+                "B"
             ],
             [
                 "status_on_equip",
-                "Canto"
+                "Fort"
+            ],
+            [
+                "cannot_counter",
+                null
+            ],
+            [
+                "no_double",
+                null
             ]
         ]
     }

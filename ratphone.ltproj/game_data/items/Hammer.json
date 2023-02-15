@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "Hammer",
+        "name": "Hammer",
+        "desc": "Effective against Armor units and ignores Unbreakable when effective.",
+        "icon_nid": "Axe",
         "icon_index": [
             0,
-            11
+            7
         ],
         "components": [
             [
@@ -35,15 +35,15 @@
             ],
             [
                 "hit",
-                75
+                60
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                15
             ],
             [
                 "level_exp",
@@ -51,15 +51,31 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Axe"
             ],
             [
                 "weapon_rank",
-                "C"
+                "D"
             ],
             [
                 "status_on_equip",
-                "Canto"
+                "Fort"
+            ],
+            [
+                "effective_multiplier",
+                1
+            ],
+            [
+                "effective_tag",
+                [
+                    "Armor"
+                ]
+            ],
+            [
+                "effective_icon",
+                [
+                    "Armor"
+                ]
             ]
         ]
     }

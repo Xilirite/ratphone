@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "Windwrack",
+        "name": "Windwrack",
+        "desc": "Effective against Flying enemies. Strikes twice when initiating.",
+        "icon_nid": "Anima",
         "icon_index": [
             0,
-            11
+            5
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                3000
             ],
             [
                 "target_enemy",
@@ -27,11 +27,11 @@
             ],
             [
                 "max_range",
-                1
+                2
             ],
             [
                 "damage",
-                9
+                5
             ],
             [
                 "hit",
@@ -39,11 +39,11 @@
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                14
             ],
             [
                 "level_exp",
@@ -51,15 +51,35 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Magic"
             ],
             [
                 "weapon_rank",
-                "C"
+                "B"
             ],
             [
-                "status_on_equip",
-                "Canto"
+                "magic",
+                null
+            ],
+            [
+                "effective_icon",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_tag",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_multiplier",
+                1
+            ],
+            [
+                "brave_on_attack",
+                null
             ]
         ]
     }

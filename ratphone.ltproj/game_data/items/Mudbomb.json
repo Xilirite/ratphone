@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "Mudbomb",
+        "name": "Mudbomb",
+        "desc": "Weak, long-range siege magic.",
+        "icon_nid": "wexp_icons",
         "icon_index": [
             0,
-            11
+            6
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                3000
             ],
             [
                 "target_enemy",
@@ -23,27 +23,27 @@
             ],
             [
                 "min_range",
-                1
+                3
             ],
             [
                 "max_range",
-                1
+                7
             ],
             [
                 "damage",
-                9
+                5
             ],
             [
                 "hit",
-                75
+                60
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                30
             ],
             [
                 "level_exp",
@@ -51,15 +51,15 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Magic"
             ],
             [
                 "weapon_rank",
                 "C"
             ],
             [
-                "status_on_equip",
-                "Canto"
+                "magic",
+                null
             ]
         ]
     }

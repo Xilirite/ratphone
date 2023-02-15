@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "CherniteBow",
+        "name": "Chernite Arc",
+        "desc": "A bow from another world. Operators take 10 damage after combat.",
+        "icon_nid": "Bow",
         "icon_index": [
             0,
-            11
+            3
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                4000
             ],
             [
                 "target_enemy",
@@ -23,27 +23,27 @@
             ],
             [
                 "min_range",
-                1
+                2
             ],
             [
                 "max_range",
-                1
+                2
             ],
             [
                 "damage",
-                9
+                17
             ],
             [
                 "hit",
-                75
+                90
             ],
             [
                 "crit",
-                30
+                0
             ],
             [
                 "weight",
-                10
+                13
             ],
             [
                 "level_exp",
@@ -51,15 +51,31 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Bow"
             ],
             [
                 "weapon_rank",
-                "C"
+                "A"
+            ],
+            [
+                "effective_icon",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_tag",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_multiplier",
+                1
             ],
             [
                 "status_on_equip",
-                "Canto"
+                "Fort"
             ]
         ]
     }

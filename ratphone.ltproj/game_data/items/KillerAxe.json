@@ -1,12 +1,12 @@
 [
     {
-        "nid": "KillingEdge",
-        "name": "Killing Edge",
-        "desc": "Increased critical chance, but cannot break.",
-        "icon_nid": "Sword",
+        "nid": "KillerAxe",
+        "name": "Killer Axe",
+        "desc": "Commonly picked to kill. Increased critical chance, but cannot break.",
+        "icon_nid": "Axe",
         "icon_index": [
             0,
-            11
+            5
         ],
         "components": [
             [
@@ -15,7 +15,7 @@
             ],
             [
                 "value",
-                2500
+                3000
             ],
             [
                 "target_enemy",
@@ -31,11 +31,11 @@
             ],
             [
                 "damage",
-                9
+                11
             ],
             [
                 "hit",
-                75
+                65
             ],
             [
                 "crit",
@@ -43,7 +43,7 @@
             ],
             [
                 "weight",
-                10
+                12
             ],
             [
                 "level_exp",
@@ -51,7 +51,7 @@
             ],
             [
                 "weapon_type",
-                "Sword"
+                "Axe"
             ],
             [
                 "weapon_rank",
@@ -59,7 +59,7 @@
             ],
             [
                 "status_on_equip",
-                "Canto"
+                "Fort"
             ]
         ]
     }
