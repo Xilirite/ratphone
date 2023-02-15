@@ -120,11 +120,12 @@
     "NoWexp.json": 118,
     "DecisiveBlowFated.json": 119,
     "DecisiveBlowFated2.json": 120,
-    "Ragnarok.json": 121
-    "RagnarokMystical.json": 66,
-    "RagnarokBuff.json": 67,
-    "RagnarokBuffCavalry.json": 68,
-    "RagnarokBuffDivine.json": 69,
-    "RagnarokBuffFlying.json": 70,
-    "RagnarokBuffCovert.json": 71,
-    "RagnarokBuffFated.json": 72
+    "Ragnarok.json": 121,
+    "RagnarokMystical.json": 122,
+    "RagnarokBuff.json": 123,
+    "RagnarokBuffCavalry.json": 124,
+    "RagnarokBuffDivine.json": 125,
+    "RagnarokBuffFlying.json": 126,
+    "RagnarokBuffCovert.json": 127,
+    "RagnarokBuffFated.json": 128
+}
