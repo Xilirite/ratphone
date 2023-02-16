@@ -1,0 +1,38 @@
+[
+    {
+        "nid": "SteelBow_1",
+        "name": "Steel Bow",
+        "desc": "Who makes a bow out of steel?",
+        "icon_nid": "Bow",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "value",
+                2000
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "weight",
+                7
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "item_prefab",
+                "SteelBow"
+            ]
+        ]
+    }
+]

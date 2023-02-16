@@ -55,9 +55,9 @@
                 ]
             ],
             [
-                "base",
+                "comment",
                 [
-                    "Clearing"
+                    "#base;Clearing"
                 ]
             ],
             [
@@ -118,6 +118,30 @@
                 "comment",
                 [
                     "#wait;5000"
+                ]
+            ],
+            [
+                "speak",
+                [
+                    "Rhodys",
+                    "Imma upgrade my Iron Sword"
+                ]
+            ],
+            [
+                "remove_item_component",
+                [
+                    "Rhodys",
+                    "Iron Sword (IronSword)",
+                    "damage"
+                ]
+            ],
+            [
+                "add_item_component",
+                [
+                    "Rhodys (Rhodys)",
+                    "IronSword",
+                    "damage",
+                    "300"
                 ]
             ]
         ],

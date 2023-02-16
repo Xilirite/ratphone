@@ -743,6 +743,13 @@
                 [
                     "Eirika"
                 ]
+            ],
+            [
+                "speak",
+                [
+                    "Rhodys",
+                    "imma upgrade my Iron Sword"
+                ]
             ]
         ],
         "only_once": false,

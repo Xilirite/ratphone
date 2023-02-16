@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "IronBow1",
+        "name": "Iron Bow +1",
+        "desc": "All bows are effective against Flying units.",
+        "icon_nid": "Bow",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "item_prefab",
+                "IronBow"
+            ],
+            [
+                "value",
+                1400
+            ],
+            [
+                "damage",
+                8
+            ],
+            [
+                "hit",
+                95
+            ]
+        ]
+    }
+]
