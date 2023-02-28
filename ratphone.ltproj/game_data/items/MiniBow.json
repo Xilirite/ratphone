@@ -1,0 +1,78 @@
+[
+    {
+        "nid": "MiniBow",
+        "name": "Mini Bow",
+        "desc": "Not 1-2 range. Technically.",
+        "icon_nid": "Bow",
+        "icon_index": [
+            0,
+            6
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "value",
+                500
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ],
+            [
+                "damage",
+                3
+            ],
+            [
+                "hit",
+                100
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                4
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Bow"
+            ],
+            [
+                "weapon_rank",
+                "D"
+            ],
+            [
+                "effective_icon",
+                [
+                    "Flying"
+                ]
+            ],
+            [
+                "effective_multiplier",
+                1
+            ],
+            [
+                "effective_tag",
+                [
+                    "Flying"
+                ]
+            ]
+        ]
+    }
+]

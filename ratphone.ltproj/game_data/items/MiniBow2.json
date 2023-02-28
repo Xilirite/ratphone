@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "MiniBow2",
+        "name": "Mini Bow +2",
+        "desc": "Not 1-2 range. Technically.",
+        "icon_nid": "Bow",
+        "icon_index": [
+            0,
+            6
+        ],
+        "components": [
+            [
+                "value",
+                1100
+            ],
+            [
+                "damage",
+                4
+            ],
+            [
+                "hit",
+                120
+            ],
+            [
+                "crit",
+                10
+            ],
+            [
+                "item_prefab",
+                "MiniBow"
+            ]
+        ]
+    }
+]
