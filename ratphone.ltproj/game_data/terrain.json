@@ -448,5 +448,35 @@
         "mtype": "Fort",
         "opaque": false,
         "status": null
+    },
+    {
+        "nid": "Barrier",
+        "name": "Barrier",
+        "color": [
+            253,
+            7,
+            229
+        ],
+        "minimap": "Door",
+        "platform": "Arena",
+        "background": "Cliff",
+        "mtype": "Wall",
+        "opaque": false,
+        "status": null
+    },
+    {
+        "nid": "Coffin",
+        "name": "Strange Coffin",
+        "color": [
+            102,
+            92,
+            36
+        ],
+        "minimap": "Chest",
+        "platform": "Arena",
+        "background": "Cliff",
+        "mtype": null,
+        "opaque": false,
+        "status": null
     }
 ]

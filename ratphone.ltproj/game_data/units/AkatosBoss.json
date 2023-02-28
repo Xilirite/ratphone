@@ -31,7 +31,12 @@
             "RES": 30,
             "DEX": 45
         },
-        "starting_items": [],
+        "starting_items": [
+            [
+                "IronLance2",
+                false
+            ]
+        ],
         "learned_skills": [],
         "unit_notes": [],
         "wexp_gain": {

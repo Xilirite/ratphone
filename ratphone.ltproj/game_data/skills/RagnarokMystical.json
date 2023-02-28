@@ -2,7 +2,7 @@
     {
         "nid": "RagnarokMystical",
         "name": "Ragnarok",
-        "desc": "Kwame unleashes an apocalyptic spell, heavily damaging all foes within 3 spaces. After casting, grants all allies Hit +100, Dodge +100, can move through enemies, and will strike first when attacked. Effects last 1 turn.\n[Mystical Bonus] Add Operator's Mag to damage dealt.",
+        "desc": "Unleash an apocalyptic spell, damaging foes within 3 spaces. For 1 turn, grant all allies Hit +100, Dodge +100, can move through enemies, and strike first when attacked.\n[Mystical Bonus] Add Operator's Mag to damage dealt.",
         "icon_nid": "Skills",
         "icon_index": [
             0,

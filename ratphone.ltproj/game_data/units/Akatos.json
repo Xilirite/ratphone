@@ -31,7 +31,12 @@
             "RES": 45,
             "DEX": 55
         },
-        "starting_items": [],
+        "starting_items": [
+            [
+                "IronLance2",
+                false
+            ]
+        ],
         "learned_skills": [],
         "unit_notes": [],
         "wexp_gain": {
@@ -80,7 +85,13 @@
                 5
             ]
         },
-        "alternate_classes": [],
+        "alternate_classes": [
+            "Halberdier",
+            "RoyalKnight",
+            "PaladinLance",
+            "WolfRiderSword",
+            "WolfRiderAxe"
+        ],
         "portrait_nid": "Seth",
         "affinity": "Wind",
         "fields": []

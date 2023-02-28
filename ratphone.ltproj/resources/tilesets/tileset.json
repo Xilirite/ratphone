@@ -105,5 +105,35 @@
         "nid": "MagvelWorldMap",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "01003803",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "79007A7B",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Final Stronghold Tileset Forest  Update",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Improved Castle Tileset Palette 2",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "Updated Village Tileset",
+        "terrain_grid": {},
+        "autotiles": {}
+    },
+    {
+        "nid": "phonech1roam1",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]

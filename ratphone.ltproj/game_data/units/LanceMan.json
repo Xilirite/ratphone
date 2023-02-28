@@ -1,0 +1,95 @@
+[
+    {
+        "nid": "LanceMan",
+        "name": "LanceMan",
+        "desc": "A lancer and a man",
+        "variant": null,
+        "level": 1,
+        "klass": "LanceFighter",
+        "tags": [],
+        "bases": {
+            "HP": 23,
+            "STR": 5,
+            "MAG": 3,
+            "DEX": 10,
+            "SPD": 11,
+            "LCK": 4,
+            "DEF": 3,
+            "RES": 4,
+            "CON": 5,
+            "MOV": 5
+        },
+        "growths": {
+            "HP": 60,
+            "STR": 40,
+            "MAG": 20,
+            "DEX": 60,
+            "SPD": 60,
+            "LCK": 20,
+            "DEF": 30,
+            "RES": 35,
+            "CON": 10,
+            "MOV": 0
+        },
+        "starting_items": [
+            [
+                "IronLance",
+                false
+            ],
+            [
+                "Vulnerary",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0
+            ],
+            "Lance": [
+                false,
+                3
+            ],
+            "Axe": [
+                false,
+                0
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ]
+        },
+        "alternate_classes": [
+            "SwordFighter",
+            "AxeFighter",
+            "Archer",
+            "Mage",
+            "Monk"
+        ],
+        "portrait_nid": "Gilliam",
+        "affinity": "None",
+        "fields": []
+    }
+]

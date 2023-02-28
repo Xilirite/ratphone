@@ -2,5 +2,10 @@
     "Rhodys.json": 0,
     "Akatos.json": 1,
     "AkatosBoss.json": 2,
-    "Gray.json": 3
+    "Gray.json": 3,
+    "ArcherGirl.json": 4,
+    "HealerMan.json": 5,
+    "CavalryGirl.json": 6,
+    "AxeGirl.json": 7,
+    "LanceMan.json": 8
 }

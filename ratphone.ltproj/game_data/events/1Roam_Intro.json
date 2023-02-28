@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Intro",
+        "trigger": "level_start",
+        "level_nid": "1Roam",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20
+    }
+]

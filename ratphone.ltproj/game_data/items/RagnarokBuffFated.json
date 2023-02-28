@@ -10,11 +10,11 @@
         ],
         "components": [
             [
-                "usable",
+                "target_ally",
                 null
             ],
             [
-                "target_ally",
+                "spell",
                 null
             ],
             [

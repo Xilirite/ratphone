@@ -14,36 +14,15 @@
                 null
             ],
             [
-                "min_range",
-                0
-            ],
-            [
-                "max_range",
-                0
-            ],
-            [
-                "magic",
-                null
-            ],
-            [
-                "enemy_blast_aoe",
-                3
-            ],
-            [
                 "target_tile",
                 null
             ],
             [
-                "damage",
-                30
-            ],
-            [
-                "alternate_damage_formula",
-                "ZERO"
-            ],
-            [
-                "event_after_combat_on_hit",
-                "Global RagnarokEventFated"
+                "sequence_item",
+                [
+                    "RagnarokFatedAoE",
+                    "RagnarokBuffFated"
+                ]
             ]
         ]
     }

@@ -1,0 +1,94 @@
+[
+    {
+        "nid": "AxeGirl",
+        "name": "AxeGirl",
+        "desc": "An axe (philosophically) and a girl",
+        "variant": null,
+        "level": 1,
+        "klass": "AxeFighter",
+        "tags": [],
+        "bases": {
+            "HP": 30,
+            "STR": 11,
+            "MAG": 0,
+            "DEX": 6,
+            "SPD": 5,
+            "LCK": 3,
+            "DEF": 5,
+            "RES": 0,
+            "CON": 7,
+            "MOV": 5
+        },
+        "growths": {
+            "HP": 90,
+            "STR": 60,
+            "MAG": 0,
+            "DEX": 55,
+            "SPD": 40,
+            "LCK": 30,
+            "DEF": 40,
+            "RES": 25,
+            "CON": 20,
+            "MOV": 0
+        },
+        "starting_items": [
+            [
+                "IronAxe",
+                false
+            ],
+            [
+                "Vulnerary",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0
+            ],
+            "Lance": [
+                false,
+                0
+            ],
+            "Axe": [
+                false,
+                3
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ]
+        },
+        "alternate_classes": [
+            "Archer",
+            "AxeArmor",
+            "AxeKnight",
+            "AxePegasus"
+        ],
+        "portrait_nid": "Cormag",
+        "affinity": "None",
+        "fields": []
+    }
+]

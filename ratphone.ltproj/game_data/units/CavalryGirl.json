@@ -1,0 +1,95 @@
+[
+    {
+        "nid": "CavalryGirl",
+        "name": "CavalryGirl",
+        "desc": "A cavalry and a girl",
+        "variant": null,
+        "level": 1,
+        "klass": "SwordKnight",
+        "tags": [],
+        "bases": {
+            "HP": 22,
+            "STR": 9,
+            "MAG": 3,
+            "DEX": 8,
+            "SPD": 7,
+            "LCK": 2,
+            "DEF": 8,
+            "RES": 1,
+            "CON": 5,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 80,
+            "STR": 55,
+            "MAG": 35,
+            "DEX": 50,
+            "SPD": 40,
+            "LCK": 40,
+            "DEF": 65,
+            "RES": 25,
+            "CON": 15,
+            "MOV": 0
+        },
+        "starting_items": [
+            [
+                "IronSword",
+                false
+            ],
+            [
+                "Vulnerary",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                3
+            ],
+            "Lance": [
+                false,
+                0
+            ],
+            "Axe": [
+                false,
+                0
+            ],
+            "Bow": [
+                false,
+                0
+            ],
+            "Staff": [
+                false,
+                0
+            ],
+            "Magic": [
+                false,
+                0
+            ],
+            "Default": [
+                false,
+                0
+            ],
+            "Daggers": [
+                false,
+                0
+            ],
+            "BrawlingUnused": [
+                false,
+                0
+            ]
+        },
+        "alternate_classes": [
+            "SwordFighter",
+            "SwordArmor",
+            "LanceKnight",
+            "AxeKnight",
+            "SwordPegasus"
+        ],
+        "portrait_nid": "Selena",
+        "affinity": "None",
+        "fields": []
+    }
+]
